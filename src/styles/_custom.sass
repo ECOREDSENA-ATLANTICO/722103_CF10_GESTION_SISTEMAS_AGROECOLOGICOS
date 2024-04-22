@@ -2,18 +2,295 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 51%
+    right: 75%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
-
-
+    top: 57%
+    right: 50%
+  &-3
+    animation: float1 1.8s ease-in-out infinite alternate
+    position: absolute
+    top: 55%
+    right: 34%    
 @keyframes float1
   0%
     transform: translateY(20px)
 
   100%
     transform: translateY(0px)
+
+.fnd-1 
+  background: linear-gradient(180deg, #fff, #F3F8E2)
+.fnd-2 
+  background-color: #FFE9E1 !important
+.fnd-3
+  background: linear-gradient(90deg, #0B481E, #85A01D) !important
+.fnd-4
+  background-color: #F6FAEA !important
+.fnd-5
+  background-color: #FFFBEC !important
+.fnd-6
+  background-color: #E1EDB5 !important
+.fnd-7
+  background-color: #FFF8DA !important
+.fnd
+  &-8
+    background-color: #FFE0D5 !important
+  &-9
+    background-color: #FFF2BE !important
+  &-10
+    background-color: #A9BFB0 !important
+  &-11
+    background-color: #E2EEB7 !important        
+  &-12
+    background-color: #F2F7DF !important
+    height: 100% !important
+    display: grid
+    align-content: center
+  &-13
+    background-color: #FFE4DA !important 
+    height: 100%  
+    .anexo__icono 
+      top: initial !important
+  &-14
+    background: linear-gradient(#ffffff, #E8F1C7, #ffff) !important  
+  &-15
+    background-color: #fff
+    padding: 2rem
+    border-radius: 2rem  
+  &-16  
+    background-color: #FFD3C3
+    border-radius: 20px     
+  &-17 
+    background-color: #FFF2BE
+    border-radius: 20px   
+  &-18  
+    background-color: #A9BFB0
+    border-radius: 20px   
+  &-19  
+    background-color: #E2EEB7
+    border-radius: 20px        
+  &-20  
+    .linea-tiempo-d__item--selected
+      .tarjeta--gris
+        background-color: #FFF6F3
+
+                   
+.tabs-a__content-item--active
+    height: 100% !important
+
+.tt1  
+  background-color: #0B481E !important
+  border-radius: 2rem 2rem 0 0 !important
+.img-h
+  height: 90% !important
+.img-h2
+  height: 100% !important  
+$crd2-icon-size: 81px
+$crd-height: calc(100% - ((#{$crd2-icon-size} / 2))  
+
+.tt2 
+  position: relative
+  justify-content: start
+  align-items: center 
+  z-index: 1
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    height: $crd-height
+    width: 100%    
+    background-color: #E1EDB5
+    border-radius: 2rem
+    z-index: -1
+.tt-m
+    align-items: center !important
+    display: grid
+    align-content: center
+    height: 100%
+
+.tt3  
+  padding: 1.5rem
+  @media (min-width: 992px)  
+    height: 250px
+
+.list2 
+  width: 100%
+  display: flex !important
+  &__item 
+    &__icon 
+      position: relative
+      width: 46px
+      margin-right: 0.65rem
+      margin-top: 1.4rem
+  &__txt 
+    p:first-child,
+    h4:first-child 
+    margin: 2rem 0
+    
+.img-91
+  height: 91px
+  justify-content: center!important
+  display: block
+  margin: 0 auto  
+
+.img-85
+  height: 85px
+  justify-content: center!important
+  display: block
+  margin: 0 auto 
+
+$crd-icon-size: 120px
+$crd-padding: 1.5rem
+$crd-width: calc(100% - ((#{$crd-icon-size} / 2)) 
+
+.crd_02 
+  position: relative
+  display: flex
+  flex-direction: row
+  justify-content: start
+  align-items: center 
+  padding: 1.5rem 1.5rem 1.5rem 0   
+  z-index: 1
+  height: 100%
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    right: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #b8ff04
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-right: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2    		
+.crd_02.fn-1::before
+  background-color: #FFF8DA !important
+.crd_03.fn-2::before
+  background-color: #E1EDB5 !important
+.crd_02.fn-3::before
+  background-color: #FFEDE7 !important
+.crd_03.fn-4::before
+  background-color: #EFF3F6 !important      
+.crd_02.fn-5::before
+  background-color: #BDD75B !important   
+.crd_03 
+  position: relative
+  display: flex
+  flex-direction: row-reverse
+  justify-content: end
+  align-items: center 
+  padding: 1.5rem 0rem 1.5rem 1.5rem  
+  z-index: 1
+  height: 100%
+
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    left: 0
+    width: $crd-width
+    height: 100%    
+    background-color: #b8ff04
+    border-radius: 15px
+    z-index: -1
+  &__icon
+    order: 1
+    flex-basis: auto
+    width: $crd-icon-size
+    margin-left: 15px
+    img   
+      width: $crd-icon-size
+  &__txt
+    flex: 1 
+    order: 2  
+.tbl-1
+  h4
+    color:#000000
+  table
+    td
+      border: 0 solid #fff
+.tbl-2
+  text-align: center  
+  th
+    background-color: #FFA686 
+  tr:nth-child(2n)
+    background-color: #F6F6F6 
+  tr
+    background-color: #ffffff  
+  table-layout: auto
+  width: 100%
+.tabla-aa
+  min-width: 900px !important
+
+  overflow-x: auto !important
+  
+
+.tabb
+  .tabs-a__tab
+    background-color: #F2F7DF
+
+
+
+.crd_hover_txt 
+    position: relative
+    padding: 0!important
+    overflow: hidden!important
+    
+
+.crd_hover_txt:hover .crd_hover_txt--body 
+    transition: all .5s ease-in-out
+    transform: translateY(0)
+    h5
+      color: #ADCE32 !important
+
+.crd_hover_txt .crd_hover_txt--body 
+    position: absolute
+    padding: 1.5rem
+    bottom: 0
+    transition: all .5s ease-in-out
+    transform: translateY(calc(100% - 3.85rem))
+    background-color: #0B481E
+    text-align: center !important
+
+      
+.nar
+  font-size: 0.6rem !important
+  margin-top: 0.4%
+
+
+@media (min-width: 1200px) and (max-width:1400px) 
+    .crd_hover_txt .crd_hover_txt--body p 
+        font-size: 0.85em
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        

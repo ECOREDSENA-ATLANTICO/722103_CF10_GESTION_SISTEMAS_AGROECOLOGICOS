@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1030" height="339" viewBox="0 0 1030 339">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.721" gradientTransform="translate(0 0)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e4fc8a"/>
+      <stop offset="1" stop-color="#adce32"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" r="0.749" gradientTransform="translate(1 1) rotate(180)" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-3" r="0.757" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="Grupo_1008413" data-name="Grupo 1008413" transform="translate(-285 -6250)">
+    <g id="Grupo_1004067" data-name="Grupo 1004067" transform="translate(0 49)">
+      <g id="Rectángulo_347467" data-name="Rectángulo 347467" transform="translate(285 6201)" stroke="#0b481e" stroke-width="3" fill="url(#radial-gradient)">
+        <rect width="295" height="296" stroke="none"/>
+        <rect x="1.5" y="1.5" width="292" height="293" fill="none"/>
+      </g>
+      <line id="Línea_217" data-name="Línea 217" y2="295" transform="translate(580 6349.5) rotate(90)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_218" data-name="Línea 218" y2="295" transform="translate(580 6422.5) rotate(90)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_219" data-name="Línea 219" y2="295" transform="translate(580 6275.5) rotate(90)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_220" data-name="Línea 220" y2="295" transform="translate(359 6496.5) rotate(180)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_216" data-name="Línea 216" y2="295" transform="translate(432 6201.5)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_221" data-name="Línea 221" y2="295" transform="translate(505.5 6496.5) rotate(180)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <g id="Elipse_4912" data-name="Elipse 4912" transform="translate(308 6226)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4919" data-name="Elipse 4919" transform="translate(380 6226)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4923" data-name="Elipse 4923" transform="translate(455 6226)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4927" data-name="Elipse 4927" transform="translate(529 6226)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4915" data-name="Elipse 4915" transform="translate(308 6373)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4917" data-name="Elipse 4917" transform="translate(380 6373)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4921" data-name="Elipse 4921" transform="translate(455 6373)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4925" data-name="Elipse 4925" transform="translate(529 6373)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4913" data-name="Elipse 4913" transform="translate(308 6301)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4918" data-name="Elipse 4918" transform="translate(380 6301)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4922" data-name="Elipse 4922" transform="translate(455 6301)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4926" data-name="Elipse 4926" transform="translate(529 6301)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4914" data-name="Elipse 4914" transform="translate(308 6448)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4916" data-name="Elipse 4916" transform="translate(380 6448)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4920" data-name="Elipse 4920" transform="translate(455 6448)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4924" data-name="Elipse 4924" transform="translate(529 6448)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_1004069" data-name="Grupo 1004069" transform="translate(0 49)">
+      <g id="Rectángulo_347469" data-name="Rectángulo 347469" transform="translate(1020 6201)" stroke="#0b481e" stroke-width="3" fill="url(#radial-gradient-2)">
+        <rect width="295" height="296" stroke="none"/>
+        <rect x="1.5" y="1.5" width="292" height="293" fill="none"/>
+      </g>
+      <line id="Línea_214" data-name="Línea 214" x1="244" y2="244" transform="translate(1046 6228)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_215" data-name="Línea 215" x1="244" y1="244" transform="translate(1046 6228)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <g id="Elipse_4904" data-name="Elipse 4904" transform="translate(1055 6447)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4905" data-name="Elipse 4905" transform="translate(1064 6218)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="7.5" fill="none"/>
+      </g>
+      <g id="Elipse_4910" data-name="Elipse 4910" transform="translate(1205 6325)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="7.5" fill="none"/>
+      </g>
+      <g id="Elipse_4911" data-name="Elipse 4911" transform="translate(1205 6362)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="9" cy="9" r="9" stroke="none"/>
+        <circle cx="9" cy="9" r="7.5" fill="none"/>
+      </g>
+      <g id="Elipse_4906" data-name="Elipse 4906" transform="translate(1154 6299)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4908" data-name="Elipse 4908" transform="translate(1277 6248)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4909" data-name="Elipse 4909" transform="translate(1277 6429)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+      <g id="Elipse_4907" data-name="Elipse 4907" transform="translate(1154 6371)" fill="#fff" stroke="#0b481e" stroke-width="3">
+        <circle cx="13.5" cy="13.5" r="13.5" stroke="none"/>
+        <circle cx="13.5" cy="13.5" r="12" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_1004068" data-name="Grupo 1004068" transform="translate(0 49)">
+      <g id="Rectángulo_347468" data-name="Rectángulo 347468" transform="translate(653 6201)" stroke="#0b481e" stroke-width="3" fill="url(#radial-gradient-3)">
+        <rect width="295" height="296" stroke="none"/>
+        <rect x="1.5" y="1.5" width="292" height="293" fill="none"/>
+      </g>
+      <g id="Elipse_4928" data-name="Elipse 4928" transform="translate(690 6306.5)" fill="#fff" stroke="#0b481e" stroke-width="2.5">
+        <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+        <circle cx="12.5" cy="12.5" r="11.25" fill="none"/>
+      </g>
+      <g id="Elipse_4935" data-name="Elipse 4935" transform="translate(914.5 6402.5) rotate(180)" fill="#fff" stroke="#0b481e" stroke-width="2.5">
+        <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+        <circle cx="12.5" cy="12.5" r="11.25" fill="none"/>
+      </g>
+      <g id="Elipse_4930" data-name="Elipse 4930" transform="translate(834 6306.5)" fill="#fff" stroke="#0b481e" stroke-width="2.5">
+        <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+        <circle cx="12.5" cy="12.5" r="11.25" fill="none"/>
+      </g>
+      <g id="Elipse_4932" data-name="Elipse 4932" transform="translate(770.5 6402.5) rotate(180)" fill="#fff" stroke="#0b481e" stroke-width="2.5">
+        <circle cx="12.5" cy="12.5" r="12.5" stroke="none"/>
+        <circle cx="12.5" cy="12.5" r="11.25" fill="none"/>
+      </g>
+      <g id="Elipse_4929" data-name="Elipse 4929" transform="translate(744 6259.5)" fill="#fff" stroke="#0b481e" stroke-width="2.5">
+        <ellipse cx="12" cy="12.5" rx="12" ry="12.5" stroke="none"/>
+        <ellipse cx="12" cy="12.5" rx="10.75" ry="11.25" fill="none"/>
+      </g>
+      <g id="Elipse_4934" data-name="Elipse 4934" transform="translate(860.5 6449.5) rotate(180)" fill="#fff" stroke="#0b481e" stroke-width="2.5">
+        <ellipse cx="12" cy="12.5" rx="12" ry="12.5" stroke="none"/>
+        <ellipse cx="12" cy="12.5" rx="10.75" ry="11.25" fill="none"/>
+      </g>
+      <g id="Elipse_4931" data-name="Elipse 4931" transform="translate(888 6259.5)" fill="#fff" stroke="#0b481e" stroke-width="2.5">
+        <ellipse cx="12" cy="12.5" rx="12" ry="12.5" stroke="none"/>
+        <ellipse cx="12" cy="12.5" rx="10.75" ry="11.25" fill="none"/>
+      </g>
+      <g id="Elipse_4933" data-name="Elipse 4933" transform="translate(716.5 6449.5) rotate(180)" fill="#fff" stroke="#0b481e" stroke-width="2.5">
+        <ellipse cx="12" cy="12.5" rx="12" ry="12.5" stroke="none"/>
+        <ellipse cx="12" cy="12.5" rx="10.75" ry="11.25" fill="none"/>
+      </g>
+      <line id="Línea_222" data-name="Línea 222" y1="54" x2="57" transform="translate(678.5 6253)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_225" data-name="Línea 225" y1="54" x2="57" transform="translate(926 6456) rotate(180)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_226" data-name="Línea 226" x2="57" y2="54" transform="matrix(-0.995, -0.105, 0.105, -0.995, 917.188, 6371)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_227" data-name="Línea 227" x2="57" y2="54" transform="matrix(-0.995, -0.105, 0.105, -0.995, 736.386, 6393.05)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_223" data-name="Línea 223" y1="54" x2="57" transform="translate(822.5 6253)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_224" data-name="Línea 224" y1="54" x2="57" transform="translate(782 6456) rotate(180)" fill="none" stroke="#0b481e" stroke-width="3"/>
+      <line id="Línea_228" data-name="Línea 228" x2="136" transform="translate(716.5 6474.5)" fill="none" stroke="#0b481e" stroke-width="3"/>
+    </g>
+    <text id="Cuadrícula" transform="translate(285 6566)" fill="#0b481e" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-45.723" y="18">Cuadrícula</tspan></text>
+    <text id="Zig_-_Zag" data-name="Zig - Zag" transform="translate(653 6566)" fill="#0b481e" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-38.023" y="18">Zig - Zag</tspan></text>
+    <text id="Diagonales" transform="translate(1020 6566)" fill="#0b481e" font-size="19" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="-47.519" y="18">Diagonales</tspan></text>
+  </g>
+</svg>

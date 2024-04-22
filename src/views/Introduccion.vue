@@ -8,6 +8,13 @@
         span
           i.fas.fa-info
       h1 Introducción
+
+    p.mb-5 El estudio de suelos permite obtener información representativa de los tipos de suelo presentes en el área donde se planea ejecutar el proceso productivo. Es así como el siguiente video introductorio nos adentrará sobre la caracterización de los suelos, de acuerdo a sus propiedades, perfil, biodiversidad y normas de seguridad y salud; temáticas a tratar en este componente formativo, bienvenidos:
+
+    figure
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: Leyenda del video
     
 </template>
 
