@@ -10,7 +10,7 @@
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
       .bloque-texto-g__img(
-        :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-1.png')})`}"
+        :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-1.png')})` }"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 La ciencia del suelo comenzó dentro de la Geología, con una disciplina básica denominada Pedología, la cual estudia la modificación de la corteza terrestre por medio de procesos de meteorización, explica al suelo como un producto natural de 5 factores formadores los cuales son:
@@ -21,13 +21,13 @@
     .row.justify-content-center.align-items-center.mb-5.fnd-1
       .col-lg-10
         figure.mb-5
-          img(src='@/assets/curso/temas/tema1/img-2.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/img-2.svg', alt='Muestra los factores formadores del suelo teniendo en cuenta: El tiempo, el relieve, el material, orgánico, el clima y la biota.')
 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4
         figure.mb-5
-          img(src='@/assets/curso/temas/tema1/img-3.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/img-3.svg')
 
 
       .col-lg-8
@@ -79,7 +79,7 @@
     .row.justify-content-center.align-items-center.mb-5.fnd-4
       .col-lg-8
         figure.py-5
-          img(src='@/assets/curso/temas/tema1/img-9.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema1/img-9.svg', alt='Muestra las fases de formación del suelo: Roca que son ígneas o magmáticas, sedimentarias y metamórficas, originando una metería en la meteorización, que es un sedentario residual y/o coluvial, después a una edatazación del suelo, hasta llegar a un perfil.')
 
     Separador
 
