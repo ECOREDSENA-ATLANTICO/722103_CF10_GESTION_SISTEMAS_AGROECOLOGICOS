@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-left")
       .titulo-principal__numero 
         span 3
       h1 Identificación de la biodiversidad del suelo
@@ -11,13 +11,12 @@
 
     h5.mb-5.text-center Los factores y clasificación que limitan el desarrollo del suelo son:
 
-    figure.mb-5 
+    figure.mb-5(data-aos="fade-right")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/bhBS_V0Nw9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
-
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in")
       .col-lg-10
         .tarjeta.color-primario.p-3.fnd-3
           .row.justify-content-around.align-items-center
@@ -36,9 +35,9 @@
 
     Separador
 
-    #t-3-1.titulo-segundo.color-acento-contenido
+    #t-3-1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 3.1 Fertilidad del suelo
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
 
       .col-lg-8
         
@@ -55,7 +54,7 @@
       
 
 
-    .tarjeta.tarjeta--azul.p-4.mb-5.fnd-5
+    .tarjeta.tarjeta--azul.p-4.mb-5.fnd-5(data-aos="fade-right")
       SlyderA(tipo="b")
         .row.mx-5
           .col-md-6.mb-4.mb-md-0
@@ -119,9 +118,9 @@
        
     Separador
 
-    #t-3-2.titulo-segundo.color-acento-contenido
+    #t-3-2.titulo-segundo.color-acento-contenido(data-aos="zoom-in")
       h2 3.2 Problemas del suelo
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
           .row.justify-content-center.align-items-center
@@ -138,7 +137,7 @@
         figure.mb-5
           img(src='@/assets/curso/temas/tema3/img-11.png', alt='Texto que describa la imagen')
 
-    .row.justify-content-center.align-items-center.mb-5.fnd-14.px-3
+    .row.justify-content-center.align-items-center.mb-5.fnd-14.px-3(data-aos="fade-left")
       .col-lg-7
         figure
           img(src='@/assets/curso/temas/tema3/img-12.png', alt='Texto que describa la imagen')
@@ -159,14 +158,6 @@
           li 
             i.fas.fa-circle.nar
             | Producción de óxidos de nitrógenos.
-
-
-
-
-
-
-
-
 
 
 

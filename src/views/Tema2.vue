@@ -3,12 +3,12 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
 
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="zoom-in")
       .titulo-principal__numero 
         span 2
       h1 Identificación del perfil del suelo
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img-1.png')})`}"
       )
@@ -17,11 +17,12 @@
 
 
     p.mb-5.text-center A continuación, se encuentra la descripción del perfil del suelo:
-    figure.mb-5 
+    figure.mb-5(data-aos="fade-left") 
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/bhBS_V0Nw9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-    .row.justify-content-center.align-items-center.mb-5
+
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
         h5 La descripción del suelo en campo exige un equipamiento mínimo que consta de:
 
@@ -58,11 +59,11 @@
 
     Separador
 
-    #t-2-1.titulo-segundo.color-acento-contenido
+    #t-2-1.titulo-segundo.color-acento-contenido(data-aos="zoom-in")
       h2 2.1 Horizontes
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
 
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
@@ -78,7 +79,7 @@
 
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
         ImagenInfografica.color-acento-botones.mb-5
           template(v-slot:imagen)
             figure
@@ -119,10 +120,10 @@
       
     Separador
 
-    #t-2-2.titulo-segundo.color-acento-contenido
+    #t-2-2.titulo-segundo.color-acento-contenido(data-aos="zoom-in")
       h2 2.2 Técnicas de muestreo
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-5.png', alt='Texto que describa la imagen')
@@ -136,7 +137,7 @@
 
         p Para realizar cualquier tipo de muestreo, es necesario definir previamente un plan, el cual debe incluir toda la programación e información relacionada con los objetivos de este.
 
-    .row.justify-content-center.d-flex.align-items-stretch
+    .row.justify-content-center.d-flex.align-items-stretch(data-aos="fade-right")
       .col-lg-10.mb-5
         .crd_02.fn-5
           .crd_02__icon
@@ -228,7 +229,7 @@
 
     p La gestión de servicios de campo (FSM) es la coordinación de los recursos de una empresa, incluyendo a los empleados y el equipo, en actividades de trabajo y operaciones fuera de esta. A continuación, veremos los pasos de la ejecución del plan de muestreo relacionada a la FSM:
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-left")
       .col-lg-8  
         TabsA.color-secundario.mb-5.tabb
           .tarjeta.fnd-12.p-4(titulo="Determinar las<br> unidades de<br> muestreo")
@@ -260,13 +261,13 @@
 
     h5.text-center.text-bold.mb-5 Para el lugar del muestreo se debe ejecutar de manera aleatoria o al azar y siguiendo los siguientes parámetros:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
           h5 Figura 3.
           span Determinación de sitios de muestreo
         figure.mb-5 
-          img(src='@/assets/curso/temas/tema2/img-9-.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/img-9-.svg')
 
         .tarjeta.color-primario.p-3.fnd-3
           .row.justify-content-around.align-items-center
@@ -283,7 +284,7 @@
                     i.fas.fa-video
 
     p.mb-5 Estimado aprendiz, para ampliar la información relacionada con la composición o fases del suelo diríjase a los siguientes enlaces web de páginas gubernamentales, los cuales relacionan artículos relacionados con esta temática:
-    .row.justify-content-center.mb-5.d-flex.align-items-stretch
+    .row.justify-content-center.mb-5.d-flex.align-items-stretch(data-aos="fade-right")
       .col-lg-4
         a.anexo.fnd-13.mb-0(:href="('https://www.minam.gob.pe/calidadambiental/wp-content/uploads/sites/22/2013/10/GUIA-PARA-EL-MUESTREO-DE-SUELOS-final.pdf')" target="_blank")
           .anexo__icono
@@ -294,7 +295,7 @@
             p Ministerio del Ambiente, Perú.
 
       .col-lg-4
-        a.anexo.fnd-13.mb-0(:href="('https://www.igac.gov.co/sites/igac.gov.co/files/guiademuestreo.pdf')" target="_blank")
+        a.anexo.fnd-13.mb-0(:href="('https://antiguo.igac.gov.co/sites/igac.gov.co/files/guiademuestreo.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -317,11 +318,334 @@
       .list2__txt
         h3.mb-0 Formato de diligenciamiento
 
-    h5.text-center.mb-5 La toma de muestra debe documentarse de la siguiente manera:
-    .row.justify-content-center.align-items-center.mb-5
+    h5.text-center La toma de muestra debe documentarse de la siguiente manera:
+
+    .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-lg-10
-        figure
-          img(src='@/assets/curso/temas/tema2/img-11.svg', alt='Texto que describa la imagen')     
+        .tabla-a.color-acento-botones
+          
+
+          table.tbll
+
+            tbody
+              tr
+                td.t1(colspan='10') 
+                  h4.mb-0 DATOS GENERALES:
+              tr              
+                td(colspan='5') Nombre del sitio en estudio:
+                td(colspan='5') Departamento:
+              tr              
+                td(colspan='5') Raz&oacute;n social:
+                td(colspan='5') Provincia:
+              tr              
+                td(colspan='5') Uso principal:
+                td(colspan='5') Direcci&oacute;n del Predio:
+              tr              
+                td.t1(colspan='10') 
+                  h4.mb-0 DATOS DEL PUNTO DE MUESTREO:
+              tr              
+                td(colspan='5') Nombre del punto de muestreo:<br>
+                td(colspan='5')
+                  | Operador :
+                  br
+                  span(style="font-size:7pt") (empresa / persona):
+              tr              
+                td(colspan='5')
+                  span Coordenadas:#[span(style="margin-left:5rem;")]  X: #[span(style="margin-left:5rem;")] Y:
+                    br
+                  span(style="font-size:7pt") (UTM,WGS84)
+                td(colspan='5')
+                  | Descripci&oacute;n de la superficie:
+                  br
+                  span(style="font-size:7pt") (pe. asfalto, cemento, vegetaci&oacute;n)
+              tr              
+                td(colspan='5') Temperatura (&deg;C):
+                td(colspan='5') Precipitaci&oacute;n (si/no, intensidad):
+              tr              
+                td(colspan='5')
+                  | T&eacute;cnica de muestreo:
+                  br
+                  span(style="font-size:7pt") (p.e. sondeo manual/semi- mec&aacute;nico/mec&aacute;nico, zanja), etc
+                td(colspan='5') Instrumentos usados :
+              tr             
+                td(colspan='5')
+                  | Profundidad final:
+                  br
+                  span(style="font-size:7pt") (en metros bajo la superficie)
+                td(colspan='5')
+                  | Napa fre&aacute;tica :
+                  br
+                  span(style="font-size:7pt") (si/no, profundidad en m)
+              tr            
+                td(colspan='5')
+                  | Instalaci&oacute;n de un pozo en el agujero:
+                  br
+                  span(style="font-size:7pt") (si/no, descripci&oacute;n)&apos;
+                td(colspan='5')
+                  | Relleno del agujero despu&eacute;s del muestreo:
+                  br
+                  span(style="font-size:7pt") (si/no, descripci&oacute;n):
+              tr              
+                td.t1(colspan='10') 
+                  h4.mb-0 DATOS DE LAS MUESTRAS:
+              tr            
+                td.t1-(colspan='2') Clave de la muestra:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr            
+                td.t1-(colspan='2') Fecha:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr             
+                td.t1-(colspan='2') Hora:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr             
+                td.t1-(colspan='2')
+                  | Profundidad desde:
+                  br
+                  span(style="font-size:7pt") (en metros bajo la superficie)
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr            
+                td.t1-(colspan='2')
+                  | Profundidad hasta:
+                  br
+                  span(style="font-size:7pt") (en metros bajo la superficie)
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr              
+                td.t1-(colspan='2') Caracter&iacute;sticas organol&eacute;pticas:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr             
+                td.t1-(colspan='2') Color:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr             
+                td.t1-(colspan='2') Olor:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr             
+                td.t1-(colspan='2') Textura:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr         
+                td.t1-(colspan='2') Compactaci&oacute;n/Consistencia:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr              
+                td.t1-(colspan='2') Humedad:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr             
+                td.t1-(colspan='2') Componentes  antropog&eacute;nicos:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr              
+                td.t1-(colspan='2')
+                  | Estimaci&oacute;n de la fracci&oacute;n
+                  br
+                  | &gt; 2 mm (%):
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr              
+                td.t1-(colspan='2')
+                  | Cantidad de la muestra:
+                  br
+                  span(style="font-size:7pt") (Volumen o peso)
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr             
+                td.t1-(colspan='2') Medidas de conservaci&oacute;n:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr              
+                td.t1-(colspan='2')
+                  | Tipo de muestra:
+                  br
+                  span(style="font-size:7pt") (simple/compuesta)
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr             
+                td.t1(colspan='10') 
+                  h4.mb-0 PARA MUESTRAS SUPERFICIALES COMPUESTAS:
+              tr             
+                td.t1-(colspan='2') &Aacute;rea de muestreo (m2):
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr            
+                td.t1-(colspan='2') N&uacute;mero de sub &mdash; muestras:
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+                td
+              tr             
+                td 
+                td 
+                td 
+                td 
+                td 
+                td 
+                td 
+                td 
+                td 
+                td
+                
+          table.tbll2    
+            tbody
+              tr              
+                td 
+                  h4 Comentarios:
+                td 
+                  h4 Croquis:
+              tr
+                td
+                td
+              tr
+                td
+                td
+              tr
+                td
+                td
+              tr
+                td
+                td
+              tr
+                td
+                td
+              tr
+                td
+                td
+              tr
+                td
+                td
+              tr
+                td
+                td
+              tr
+                td
+                td
+              tr
+                td
+                td
+              tr
+                td
+                td
+                
+
+
+
+
+
+
+
 
 
 </template>

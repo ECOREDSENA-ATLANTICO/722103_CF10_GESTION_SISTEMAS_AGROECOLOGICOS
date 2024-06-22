@@ -3,12 +3,12 @@
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="zoom-in")
       .titulo-principal__numero 
         span 1
       h1 Edafología
 
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="fade-left")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-1.png')})` }"
       )
@@ -24,7 +24,7 @@
           img(src='@/assets/curso/temas/tema1/img-2.svg', alt='Muestra los factores formadores del suelo teniendo en cuenta: El tiempo, el relieve, el material, orgánico, el clima y la biota.')
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-4
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-3.svg')
@@ -32,13 +32,13 @@
 
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
-          p En el contexto de la agricultura la ciencia del suelo es denominada como edafología, término que viene de una raíz griega “edafos” qué significa suelo donde crecen las plantas o las raíces.
+          p En el contexto de la agricultura la ciencia del suelo es denominada como edafología, término que viene de una raíz griega <em>“edafos”</em> qué significa suelo donde crecen las plantas o las raíces.
           p La edafología es una ciencia aplicada al estudio del suelo en un agroecosistema y bajo esta perspectiva el suelo también es un producto de 5 factores formadores naturales como se vio en la anterior figura, pero modificado por el factor antrópico o humano que en algunas regiones que de miles de años de acción sobre el suelo original.
         p No existe una definición de suelos universalmente aceptada, pero podemos decir que el suelo es el medio natural que sostiene la vida vegetal brindando soporte físico, almacenando agua, suministrando oxígeno y nutrientes minerales a las plantas.
         p La formación de suelos es el proceso que parte desde una roca hasta el suelo con un perfil determinado, pasando por una fase denominada material originario; las rocas pueden ser de 3 tipos o grupos según su origen, la cuales son: ígneas, sedimentarias y metamórficas
 
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-10
         .tarjeta.color-primario.p-3.fnd-3
           .row.justify-content-around.align-items-center
@@ -48,10 +48,10 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 Ciclo de las rocas
-                  p Es un concepto de geología que describe las transiciones de material en el tiempo geológico que permiten que toda roca pueda transformarse en uno de estos tres tipos: rocas sedimentarias, rocas metamórficas y rocas ígneas. Veamos más a continuación: 
+                  p Es un concepto de geología que describe las transiciones de material en el tiempo geológico que permiten que toda roca pueda transformarse en uno de estos tres tipos: rocas sedimentarias, rocas metamórficas y rocas ígneas. Haz clic en el siguiente enlace para profundizar en esta temática: 
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=8gIfSdR9xkQ&ab_channel=IngeniaUdeA')" target="_blank")
-                    span Ver video
+                    span Consultar video
                     i.fas.fa-video
 
     .list2.mb-3(data-aos="fade-down")
@@ -61,7 +61,7 @@
       .list2__txt
         h3.mb-0 Proceso de meteorización
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-7
         p Por acción de la temperatura y de la humedad pueden transformarse en material originario mucho más subdividido y favorable para el ingreso de la biota, particularmente las raíces de algunas gramíneas.
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
@@ -83,7 +83,7 @@
 
     Separador
 
-    #t-1-1.titulo-segundo.color-acento-contenido
+    #t-1-1.titulo-segundo.color-acento-contenido(data-aos="fade-left")
       h2 1.1	Propiedades y composición del suelo
 
     .row.justify-content-center.align-items-center.mb-5
@@ -99,7 +99,7 @@
     p.text-center.text-bold A continuación, exponemos la composición:
 
 
-    .tarjeta.tarjeta--azul.p-4.mb-5.fnd-5
+    .tarjeta.tarjeta--azul.p-4.mb-5.fnd-5(data-aos="zoom-in")
       SlyderA(tipo="b")
         .row.mx-5
           .col-md-6.mb-4.mb-md-0
@@ -171,14 +171,14 @@
 
     Separador
 
-    #t-1-2.titulo-segundo.color-acento-contenido
+    #t-1-2.titulo-segundo.color-acento-contenido(data-aos="zoom-in")
       h2 1.2	Caracterización y clasificación
 
 
     .row.justify-content-center.align-items-center
       .col-lg-7
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
-          p La clasificación de los suelos está directamente ligada con las propiedades físicas, químicas y biológicas y con otros criterios que pueden variar por países. Sin embargo, existe una clasificación de suelos a nivel mundial llamada Soil Taxonomy de la United States Department of Agriculture (USDA), que clasifica los suelos con base a la concepción de “Horizonte diagnóstico” e indica 12 órdenes y cuentan diferentes niveles jerárquicos que parten desde los subórdenes hasta las series, veamos:
+          p La clasificación de los suelos está directamente ligada con las propiedades físicas, químicas y biológicas y con otros criterios que pueden variar por países. Sin embargo, existe una clasificación de suelos a nivel mundial llamada<em> Soil Taxonomy de la United States Department of Agriculture (USDA),</em> que clasifica los suelos con base a la concepción de “Horizonte diagnóstico” e indica 12 órdenes y cuentan diferentes niveles jerárquicos que parten desde los subórdenes hasta las series, conozcamos a continuación:
       .col-lg-5
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-20.png', alt='Texto que describa la imagen')
@@ -186,7 +186,7 @@
     p.text-center.text-bold Órdenes de suelos según USDA
 
 
-    .row.justify-content-center.align-items-center.mb-5.d-flex.align-items-stretch
+    .row.justify-content-center.align-items-center.mb-5.d-flex.align-items-stretch(data-aos="fade-left")
       .col-auto.col-lg-3
         .div.mb-5.tt2
           .col-lg-12.tt1.p-2
@@ -292,7 +292,7 @@
 
     p.mb-4.text-center.text-bold Clasificación de los suelos según la textura
 
-    .row.justify-content-center.mb-5.d-flex.align-items-stretch
+    .row.justify-content-center.mb-5.d-flex.align-items-stretch(data-aos="zoom-in")
       .col-lg-6.mb-5
         .crd_02.fn-1
           .crd_02__icon
@@ -325,7 +325,7 @@
     p De acuerdo con la evolución y composición de la roca meteorizada formadora del material originario, el suelo puede clasificarse así:
     h5.mb-5.text-center Clasificación de los suelos según evolución y composición
                          
-    .tarjeta--container.row.mb-5
+    .tarjeta--container.row.mb-5(data-aos="fade-left")
 
       .col-md.tarjeta.fnd-6.p-3
         .row.justify-content-center.mb-4
@@ -357,7 +357,7 @@
     p Según la estructura, el suelo puede clasificarse en:
     h5.text-center Clasificación de los suelos según estructura
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10
         .row.justify-content-center.align-items-center.mb-2.fnd-8
           .col-lg-4
@@ -404,7 +404,7 @@
 
     p.text-center.mb-5 Y de acuerdo con las características físicas, el suelo puede clasificarse así:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -437,7 +437,7 @@
           .crd_hover_txt--body
             h5.mb-3.text-white  Acrisoles
             p.mb-0.text-white  Otro tipo de suelo arcilloso, con saturación de bases inferior al 50%.   
-    .row.justify-content-center.mb-5                                 
+    .row.justify-content-center.mb-5(data-aos="zoom-in")                                 
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -471,7 +471,7 @@
             h5.mb-3.text-white.tc-1 Vertisoles
             p.mb-0.text-white  Suelos arcillosos y negros, ubicados cerca de escurrimientos y pendientes rocosas.    
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-10
         .tarjeta.color-primario.p-3.fnd-3
           .row.justify-content-around.align-items-center
@@ -481,7 +481,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   
-                  p Estimado aprendiz, se invita a que observe el video ubicado en los materiales complementarios denominado: Grow Passion. (2020). Conoce los diferentes tipos de suelo y sus principales características, a través del cual podrá ver los diferentes tipos de suelo y sus características como son su composición, clasificación y textura. Lo que nos da las herramientas para su clasificación.
+                  p Estimado aprendiz, se invita a que explore el video ubicado en los materiales complementarios denominado: <em>Grow Passion.</em> (2020). Conoce los diferentes tipos de suelo y sus principales características, a través del cual comprenderá los diferentes tipos de suelo y sus características como son su composición, clasificación y textura. Lo que nos da las herramientas para su clasificación.
           
 
 </template>
