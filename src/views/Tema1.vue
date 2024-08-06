@@ -25,7 +25,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-4
+      .col-lg-4.col-sm-10.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-3.svg')
 
@@ -76,7 +76,7 @@
     .titulo-sexto.color-acento-contenido
       h5 Figura 2.
       span Fases de formación del suelo
-    .row.justify-content-center.align-items-center.mb-5.fnd-4
+    .row.justify-content-center.align-items-center.mb-3.fnd-4
       .col-lg-8
         figure.py-5
           img(src='@/assets/curso/temas/tema1/img-9.svg', alt='Muestra las fases de formación del suelo: Roca que son ígneas o magmáticas, sedimentarias y metamórficas, originando una metería en la meteorización, que es un sedentario residual y/o coluvial, después a una edatazación del suelo, hasta llegar a un perfil.')
@@ -101,7 +101,7 @@
 
     .tarjeta.tarjeta--azul.p-4.mb-5.fnd-5(data-aos="zoom-in")
       SlyderA(tipo="b")
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Composición del suelo
             p El suelo, es una capa delgada formada por el paso de los años y siglos a partir de la desintegración de rocas superficiales por la acción del agua, los cambios de temperatura y el viento.
@@ -109,7 +109,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img-11.png', alt='Texto que describa la imagen')
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Fase sólida del suelo
             p La fase sólida está formada por los componentes inorgánicos (minerales) y orgánicos (materia orgánica) del suelo.
@@ -117,7 +117,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img-12.png', alt='Texto que describa la imagen')
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Fracción inorgánica
             p Son los primarios los cuales están dentro de la roca madre y que no se encuentran alteradas químicamente y los secundarios que son producidos por el suelo por el proceso de meteorización de un material primario.
@@ -125,7 +125,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img-13.png', alt='Texto que describa la imagen')
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Fracción orgánica
             p Es el recurso primordial para la fertilidad del suelo y que es derivado de las variadas formas y grados de transformación, en que la materia orgánica se puede encontrar en el suelo.
@@ -134,7 +134,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-14.png', alt='Texto que describa la imagen')                                          
 
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Fase líquida
             p Está constituida por el agua junto con todos los compuestos que se encuentran disueltos en ella, es uno de los factores esenciales para la génesis de los suelos y es una agente de hidrólisis y un medio de dispersión.
@@ -143,7 +143,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-15.png', alt='Texto que describa la imagen')                     
 
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Fase gaseosa
             p Se refiere a la atmósfera del suelo que se encuentra en el espacio poroso de este, contribuye en el proceso de respiración de las plantas, el intercambio gaseoso entre el aire del suelo y la atmósfera.
@@ -152,7 +152,7 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-16.png', alt='Texto que describa la imagen')  
 
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Propiedades del suelo físicas o mecánicas
             p Textura, estructura, color, permeabilidad, porosidad, drenaje, consistencia, profundidad efectiva.
@@ -160,7 +160,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema1/img-17.png', alt='Texto que describa la imagen')
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Propiedades del suelo Químicas y Biológicas
             p <b>Las Químicas</b> tienen que ver con la calidad y disponibilidad de agua y nutrientes para las plantas. Mientras que las <b>Biológicas</b> con la cuantificación y la calificación para optimizar el potencial del suelo y de las plantas.
@@ -183,8 +183,9 @@
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-20.png', alt='Texto que describa la imagen')
 
-    p.text-center.text-bold Órdenes de suelos según USDA
-
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 3.
+      span Órdenes de suelos según USDA
 
     .row.justify-content-center.align-items-center.mb-5.d-flex.align-items-stretch(data-aos="fade-left")
       .col-auto.col-lg-3
@@ -290,7 +291,9 @@
     p Por otro lado, los suelos también pueden dividirse según la evolución, composición, estructura, tipo de uso en la agricultura, la textura, características físicas, entre otros.
     p.mb-5 Conforme a la textura que está relacionada con el tamaño y tipo de mineral presente en el suelo, los suelos pueden clasificarse así:
 
-    p.mb-4.text-center.text-bold Clasificación de los suelos según la textura
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 4.
+      span Clasificación de los suelos según la textura
 
     .row.justify-content-center.mb-5.d-flex.align-items-stretch(data-aos="zoom-in")
       .col-lg-6.mb-5
@@ -323,7 +326,9 @@
             p Es aquel suelo que tiene aproximadamente la misma proporción de las tres clases de partículas minerales. Por ello, tienen propiedades que lo hacen ideal para la agricultura.
 
     p De acuerdo con la evolución y composición de la roca meteorizada formadora del material originario, el suelo puede clasificarse así:
-    h5.mb-5.text-center Clasificación de los suelos según evolución y composición
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 5.
+      span Clasificación de los suelos según evolución y composición
                          
     .tarjeta--container.row.mb-5(data-aos="fade-left")
 
@@ -355,55 +360,59 @@
         p.text-center Con mucha materia orgánica en diferentes estados de descomposición, roca madre bien desintegrada. Aptos para la agricultura.
 
     p Según la estructura, el suelo puede clasificarse en:
-    h5.text-center Clasificación de los suelos según estructura
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 6.
+      span Clasificación de los suelos según estructura
 
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10
         .row.justify-content-center.align-items-center.mb-2.fnd-8
-          .col-lg-4
+          .col-lg-4.col-sm-10
             figure
               img(src='@/assets/curso/temas/tema1/img-40.svg', alt='aaaaaa')
           .col-lg-8
             h5 Suelos arenosos
             p Incapaces de retener el agua, son escasos en materia orgánica y por lo tanto poco fértiles.
         .row.justify-content-center.align-items-center.mb-2.fnd-9
-          .col-lg-4
+          .col-lg-4.col-sm-10
             figure
               img(src='@/assets/curso/temas/tema1/img-41.svg', alt='aaaaaa')
           .col-lg-8
             h5 Suelos calizos
             p Abundan en minerales calcáreos y por lo tanto en sales, lo cual les confiere dureza, aridez y color blanquecino.
         .row.justify-content-center.align-items-center.mb-2.fnd-10
-          .col-lg-4
+          .col-lg-4.col-sm-10
             figure
               img(src='@/assets/curso/temas/tema1/img-42.svg', alt='aaaaaa')
           .col-lg-8
             h5 Suelos humíferos
             p De tierra negra, en ellos abunda la materia orgánica en descomposición y retienen muy bien el agua, siendo muy fértiles.
         .row.justify-content-center.align-items-center.mb-2.fnd-11
-          .col-lg-4
+          .col-lg-4.col-sm-10
             figure
               img(src='@/assets/curso/temas/tema1/img-43.svg', alt='aaaaaa')
           .col-lg-8
             h5 Suelos arcillosos
             p Compuestos por finos granos amarillentos que retienen muy bien el agua, por lo que suelen inundarse con facilidad.
         .row.justify-content-center.align-items-center.mb-2.fnd-8
-          .col-lg-4
+          .col-lg-4.col-sm-10
             figure
               img(src='@/assets/curso/temas/tema1/img-44.svg', alt='aaaaaa')
           .col-lg-8
             h5 Suelos pedregosos
             p Compuestos por rocas de distintos tamaños, son muy porosos y no retienen en nada el agua.
         .row.justify-content-center.align-items-center.mb-5.fnd-9
-          .col-lg-4
+          .col-lg-4.col-sm-10
             figure
               img(src='@/assets/curso/temas/tema1/img-45.svg', alt='aaaaaa')
           .col-lg-8
             h5 Suelos mixtos
             p Suelos mezclados, por lo general entre arenosos y arcillosos.
-
+    
     p.text-center.mb-5 Y de acuerdo con las características físicas, el suelo puede clasificarse así:
-
+    .titulo-sexto.color-acento-contenido
+      h5 Figura 7.
+      span Clasificación de los suelos según las características físicas
     .row.justify-content-center.mb-5(data-aos="fade-right")
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")

@@ -15,14 +15,13 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 El perfil es el conjunto de horizontes o capas identificadas en sentido vertical, hasta determinada profundidad, la cual está determinada por un límite natural como la roca no alterada, material originario o la capa freática. 
 
-
-    p.mb-5.text-center A continuación, se encuentra la descripción del perfil del suelo:
+    p.mb-5.text-center Veamos la descripción del perfil del suelo:
     figure.mb-5(data-aos="fade-left") 
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/bhBS_V0Nw9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/mjYYOy5LLQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-8
         h5 La descripción del suelo en campo exige un equipamiento mínimo que consta de:
 
@@ -52,7 +51,7 @@
             i.fas.fa-circle.nar
             | Otros como pH metro para la medición de pH o un Conductímetro para la medición de sales y/o sales solubles.    
 
-      .col-lg-4
+      .col-lg-4.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-2.png', alt='Texto que describa la imagen')
 
@@ -71,7 +70,7 @@
         p Para describir de forma adecuada un perfil se deben seguir un sistema de designación o de nomenclatura o simbología que corresponde a los horizontes principales y capas. Los horizontes principales se representan o designan mediante las letras mayúsculas O, A, E, B, C y R. Veamos cómo se conforman:
 
 
-      .col-lg-4
+      .col-lg-4.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-3.svg', alt='Texto que describa la imagen')
 
@@ -124,7 +123,7 @@
       h2 2.2 Técnicas de muestreo
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4
+      .col-lg-4.col-sm-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema2/img-5.png', alt='Texto que describa la imagen')
 
@@ -250,7 +249,7 @@
           .tarjeta.fnd-12.p-4(titulo="Identificación")
             p Debe acompañar el análisis descrito en el informe de resultados para comprender el proceso de evolución del suelo con el paso del tiempo. Para sistemas de siembra directa, la muestra se debe tomar en dos profundidades, la primera de 0 a 10 y la segunda de 10 a 20 cm.
   
-      .col-lg-4.d-md-none.d-lg-block
+      .col-lg-4.col-sm-10.d-md-none.d-lg-block
         figure.img-h
           img.img-h2(src='@/assets/curso/temas/tema2/img-8.png', alt='Texto que describa la imagen')
 
@@ -264,7 +263,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-10
         .titulo-sexto.color-acento-contenido
-          h5 Figura 3.
+          h5 Figura 8.
           span Determinación de sitios de muestreo
         figure.mb-5 
           img(src='@/assets/curso/temas/tema2/img-9-.svg')
@@ -285,7 +284,7 @@
 
     p.mb-5 Estimado aprendiz, para ampliar la información relacionada con la composición o fases del suelo diríjase a los siguientes enlaces web de páginas gubernamentales, los cuales relacionan artículos relacionados con esta temática:
     .row.justify-content-center.mb-5.d-flex.align-items-stretch(data-aos="fade-right")
-      .col-lg-4
+      .col-lg-4.col-sm-10.mb-3
         a.anexo.fnd-13.mb-0(:href="('https://www.minam.gob.pe/calidadambiental/wp-content/uploads/sites/22/2013/10/GUIA-PARA-EL-MUESTREO-DE-SUELOS-final.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
@@ -294,7 +293,7 @@
             h5.mb-0 Guía para el muestreo de suelos
             p Ministerio del Ambiente, Perú.
 
-      .col-lg-4
+      .col-lg-4.col-sm-10.mb-3
         a.anexo.fnd-13.mb-0(:href="('https://antiguo.igac.gov.co/sites/igac.gov.co/files/guiademuestreo.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
@@ -302,7 +301,7 @@
             h5.mb-0 Anexo
             h5.mb-0 Guía de muestreo
             p MInstituto Geográfico Agustín Codazi, Colombia.
-      .col-lg-4
+      .col-lg-4.col-sm-10.mb-3
         a.anexo.fnd-13.mb-0(:href="('https://inta.gob.ar/sites/default/files/script-tmp-tcnicas_de_toma_y_remisin_de_muestras_de_suelos.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")

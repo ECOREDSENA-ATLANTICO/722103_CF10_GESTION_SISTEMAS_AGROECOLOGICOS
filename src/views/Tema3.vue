@@ -9,11 +9,49 @@
 
     p.mb-5 El suelo alberga diversidad de organismos que se encuentran adaptados a este sistema y son parte fundamental para el desarrollo del ciclo de los nutrientes. Asimismo, pueden afectar la formación y evolución de los suelos, siendo considerado como un factor de formación del suelo.
 
-    h5.mb-5.text-center Los factores y clasificación que limitan el desarrollo del suelo son:
+    h5.mb-3.text-center Los factores y clasificación que limitan el desarrollo del suelo son:
 
-    figure.mb-5(data-aos="fade-right")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/bhBS_V0Nw9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    p La principal fuente de energía para los microorganismos del suelo es la luz solar. Los compuestos orgánicos son compuestos conocidos como hidrocarburos, que se llaman así porque están formados solo por hidrógeno y carbono. 
+    p Adicional a esto, los compuestos minerales son sustancias inorgánicas de composición química definida, que se encuentran en distintas formaciones rocosas. 
+    p Estas sustancias receptoras de electrones intervienen en reacciones redox entre sustancias como el O2, compuestos orgánicos, el NO3, NO2, SO4, entre otros.
+    p Los organismos pueden utilizar compuestos inorgánicos, como el CO2 o el HCO3. También las vitaminas y aminoácidos hacen parte de los factores de crecimiento. Dentro de las condiciones del medio, la temperatura en los seres vivos posee un intervalo en el que pueden desarrollar su actividad y según el grado de temperatura en el cual se desarrollan define tres tipos de organismos: Termófilos, Mesófilos y Psicrófilos. 
+
+    p También se pueden clasificar según su disponibilidad de oxígeno en:
+    ul.lista-ul--color
+      li 
+        i.fas.fa-check
+        | Aerobios que son organismos que se desarrollan en presencia de oxígeno.
+      li 
+        i.fas.fa-check
+        | Macroaerófilos que requieren condiciones bajas en oxígeno.
+      li 
+        i.fas.fa-check
+        | Anaerobios que se desarrollan en ausencia de oxígeno. 
+    p Por otro lado, tenemos la Acidez del suelo determina el tipo de organismos que puede existir de acuerdo con diferentes intervalos de pH del suelo. Definiendo tipos de organismos como son: Neutrófilos, Basófilos, Acidófilos e Indiferentes.
+    p La clasificación de los organismos del suelo según su tamaño, se agrupan en tres clases distintas: 
+    ul.lista-ul--color
+      li 
+        i.fas.fa-check
+        | Macrofauna: animales que viven en el suelo: ratones, topos, musarañas, reptiles, 	miriápodos, moluscos, lombrices, etc.
+      li 
+        i.fas.fa-check
+        | Mesofauna: artrópodos, anélidos, nemátodos, moluscos, etc. 
+      li 
+        i.fas.fa-check
+        | Microbiota: según su naturaleza, microflora y microfauna
+    p De la misma manera, según su metabolismo se agrupan en:
+    ul.lista-ul--color
+      li 
+        i.fas.fa-check
+        | Autótrofos: como algas, bacterias fotosintéticas o plantas superiores.
+      li 
+        i.fas.fa-check
+        | Quimiolitótrofos: estos organismos aeróbicos, llevan a cabo la oxidación del amonio, participando en el ciclo del nitrógeno en el suelo.
+      li 
+        i.fas.fa-check
+        | Organismos anaeróbicos: los cuales llevan a cabo sus procesos metabólicos en ausencia de oxígeno. 
+    p.mb-5 y finalmente los Heterótrofos, los cuales se encargan de la destrucción de los residuos orgánicos y emiten CO2 resultante de su proceso de respiración.
+
 
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in")
@@ -56,14 +94,14 @@
 
     .tarjeta.tarjeta--azul.p-4.mb-5.fnd-5(data-aos="fade-right")
       SlyderA(tipo="b")
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Fertilidad del suelo
             p Un suelo se considera fértil en cuanto contenga los nutrientes necesarios e indispensables para que las plantas puedan desarrollarse.
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema3/img-3.png', alt='Texto que describa la imagen')
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Consistencia y profundidad
             p La consistencia del suelo se mide por muestras de suelo mojado, húmedo y seco. Suelos profundos tienen un metro o más hasta llegar a una capa limitante.
@@ -73,7 +111,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema3/img-4.png', alt='Texto que describa la imagen')
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Nutrientes
             p Los nutrientes son las sustancias químicas que toda planta toma del suelo para asegurar su crecimiento y desarrollo normal, como el nitrógeno, el fósforo, el potasio, el calcio y el magnesio, la falta de enriquecimiento de nutrientes posterior a la cosecha de los cultivos hace que el suelo pierda su fertilidad.
@@ -81,7 +119,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema3/img-5.png', alt='Texto que describa la imagen')
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Absorbe y retiene el agua 
             p El agua se retiene en el suelo en los poros entre las partículas del suelo.
@@ -90,7 +128,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema3/img-6.png', alt='Texto que describa la imagen')
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Aireado el suelo
             p El airear la tierra mediante perforaciones superficiales en el terreno, (entre 5 y 15 centímetros) para crear conductos por los que permitir el acceso del aire, el agua y los nutrientes al suelo y evitando la compactación del terreno.
@@ -98,7 +136,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema3/img-7.png', alt='Texto que describa la imagen')
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Conservación de los suelos de sustancias tóxicas
             p Los suelos intercambian nutrientes y agua con las raíces de la planta. El suelo es un recurso no renovable y su preservación es esencial para la seguridad alimentaria.
@@ -107,7 +145,7 @@
           .col-md-6
             figure
               img(src='@/assets/curso/temas/tema3/img-8.png', alt='Texto que describa la imagen')
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Conservación de la estructura del suelo
             p Los suelos arados oponen menor resistencia a ser transportados por medio del agua y el viento. Los procesos erosivos pueden ser más agudos en terrenos con alta pendiente y que no cuenten por protección de árboles o arbustos.

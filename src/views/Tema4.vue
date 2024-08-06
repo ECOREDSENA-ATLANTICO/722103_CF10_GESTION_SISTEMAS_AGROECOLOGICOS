@@ -30,14 +30,14 @@
 
       .col-lg-4
         figure.mb-5
-          img(src='@/assets/curso/temas/tema4/img-4.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/img-4.png')
 
 
     h5.text-center.mb-5  Para realizar un correcto diagnóstico de las condiciones del suelo se deben tener en cuenta los siguientes parámetros:
     .row.justify-content-center.align-items-center.mb-5.fnd-14(data-aos="fade-right")
       .col-lg-10
         figure.mb-5
-          img(src='@/assets/curso/temas/tema4/img-5.svg', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/img-5.svg')
 
 
     .list2.mb-3(data-aos="fade-down")
@@ -257,7 +257,7 @@
                   thead
                     tr
                       th(colspan='2') Para 1 t de producción
-                      th(colspan='12') N u t r i e n t e s    
+                      th(colspan='12') Nutrientes    
                     tr 
                       th Cultivo 
                       th Necesidad
@@ -431,59 +431,53 @@
 
     .tarjeta.tarjeta--azul.p-4.mb-5.fnd-5(data-aos="fade-left")
       SlyderA(tipo="b")
-        .row.mx-5
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Consideraciones con las muestras
             p Considerando que las muestras pueden tener propiedades tóxicas, corrosivas, explosivas e inflamables, debe evitarse el contacto a través de la piel o las mucosas.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema4/img-8.png', alt='Texto que describa la imagen')
-        .row.mx-5
+              img(src='@/assets/curso/temas/tema4/img-8.png')
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Protección recomendada para la toma de muestras
             p Una protección mínima implica el uso de gafas de seguridad, de guantes de látex o de otro tipo (dependiendo de los potenciales contaminantes), de botas aislantes, protectores auditivos, ropa adecuada y uso de explosímetros.
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema4/img-9.png', alt='Texto que describa la imagen')
-        .row.mx-5
+              img(src='@/assets/curso/temas/tema4/img-9.png')
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Acciones de contingencia
             p Tener edefinidas las acciones de contingencia frente a ingestión accidental de medios contaminados (suelos, aguas, alimentos, etc.).
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema4/img-10.png', alt='Texto que describa la imagen')
-        .row.mx-5
+              img(src='@/assets/curso/temas/tema4/img-10.png')
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Prevención para muestras en áreas cerradas
             p Durante el muestreo emplear mascarillas y respiradores de oxígeno para evitar la inhalación de gases o vapores presenten o que se desprendan cuando el muestreo se realiza en pozos o áreas cerradas y en cúmulos de residuos químicos, para ello deberán usarse detectores automáticos de gases y tubos colorimétricos.
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema4/img-11.png', alt='Texto que describa la imagen')
-        .row.mx-5
+              img(src='@/assets/curso/temas/tema4/img-11.png')
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Casos comunes a los que se expone al tomar muestras 
             p Inicialmente son los peligros físicos durante las actividades de muestreo y/o uso de la maquinaria y equipos tales como detectores de canalizaciones y tuberías enterradas.
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema4/img-12.png', alt='Texto que describa la imagen')
-        .row.mx-5
+              img(src='@/assets/curso/temas/tema4/img-12.png')
+        .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Recomendaciones de los casos para uso de ropa protectora especial 
             p Al estar expuesto a riesgos eléctricos, fuego o explosiones, es necesario el uso de ropa protectora especial.
 
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema4/img-13.png', alt='Texto que describa la imagen')
-
-
-
-
-
-
+              img(src='@/assets/curso/temas/tema4/img-13.png')
 
 
 
