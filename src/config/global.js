@@ -289,7 +289,7 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del Equipo',
           centro: 'Dirección General',
         },
         {
@@ -316,7 +316,7 @@ export default {
         },
         {
           nombre: 'Paola Alexandra Moya Peralta',
-          cargo: 'Diseñadora instruccional',
+          cargo: 'Diseñadora Instruccional',
           centro:
             'Centro de la Industria, la Empresa y los Servicios - Regional Norte de Santander',
         },
@@ -327,7 +327,7 @@ export default {
         },
         {
           nombre: 'Sandra Patricia Hoyos Sepúlveda',
-          cargo: 'Corrector de estilo',
+          cargo: 'Corrector de Estilo',
           centro: 'Centro de Diseño y Metrología - Distrito Capital',
         },
       ],
@@ -337,31 +337,31 @@ export default {
       autores: [
         {
           nombre: 'Nelson Vera',
-          cargo: 'Producción audiovisual',
+          cargo: 'Producción Audiovisual',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Alexander Acosta',
-          cargo: 'Producción audiovisual',
+          cargo: 'Producción Audiovisual',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Carmen Martinez',
-          cargo: 'Producción audiovisual',
+          cargo: 'Producción Audiovisual',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Jorge Leonardo Camacho',
-          cargo: 'Desarrollo Fullstack ',
+          cargo: 'Desarrollo <em>Full Stack</em>',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Eulises Orduz',
-          cargo: 'Diseño de contenidos digitales',
+          cargo: 'Diseño de Contenidos Digitales',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
@@ -372,25 +372,25 @@ export default {
       autores: [
         {
           nombre: 'Fabian Cuartas',
-          cargo: 'Validación de diseño y contenido',
+          cargo: 'Validación de Diseño y Contenido',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Gilberto Herrera',
-          cargo: 'Validación de diseño y contenido',
+          cargo: 'Validación de Diseño y Contenido',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
         {
           nombre: 'Luz Karime Amaya',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },

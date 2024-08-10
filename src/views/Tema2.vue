@@ -15,7 +15,7 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 El perfil es el conjunto de horizontes o capas identificadas en sentido vertical, hasta determinada profundidad, la cual está determinada por un límite natural como la roca no alterada, material originario o la capa freática. 
 
-    p.mb-5.text-center Veamos la descripción del perfil del suelo:
+    p.mb-5.text-center Conozcamos la descripción del perfil del suelo:
     figure.mb-5(data-aos="fade-left") 
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/mjYYOy5LLQ0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
@@ -37,7 +37,7 @@
             | Cuchillo o navaja.
           li
             i.fas.fa-circle.nar
-            | Carta de Munsell la cual será la herramienta fundamental para poder precisar y especificar el color del suelo en cada horizonte.
+            | Carta de Munsell, la cual será la herramienta fundamental para poder precisar y especificar el color del suelo en cada horizonte.
           li
             i.fas.fa-circle.nar
             | Ácido para carbonatos diluido para identificar la presencia de carbonatos.
@@ -49,7 +49,7 @@
             | Bolsas o envases y etiquetas para muestreo.
           li
             i.fas.fa-circle.nar
-            | Otros como pH metro para la medición de pH o un Conductímetro para la medición de sales y/o sales solubles.    
+            | Otros, como el pH-metro para la medición del pH, o un conductímetro para la medición de sales y/o sales solubles.   
 
       .col-lg-4.col-sm-10
         figure.mb-5
@@ -98,7 +98,7 @@
 
           .tarjeta.color-acento-botones--borde.p-3(x="37.6%" y="54.4%" numero="B")
             .h5.mb-2 Los horizontes B
-            p Se encuentran los materiales procedentes del horizonte A
+            p Se encuentran los materiales procedentes del horizonte A.
 
           .tarjeta.color-acento-botones--borde.p-3(x="37.6%" y="67.9%" numero="C")
             .h5.mb-2 Los horizontes C
@@ -279,7 +279,7 @@
                   p Estimado aprendiz, la forma cómo se realice el muestreo del suelo, es la etapa primera y crucial para una adecuada interpretación de los resultados obtenidos en el laboratorio. Por lo tanto, tomar correctamente la muestra de suelos es fundamental para realizar el respectivo análisis. A continuación más detalle a través del siguiente video: 
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=qBdp2waTIsI&ab_channel=EcosistemadeRecursosEducativosDigitalesSENA')" target="_blank")
-                    span Ver video
+                    span Consultar video
                     i.fas.fa-video
 
     p.mb-5 Estimado aprendiz, para ampliar la información relacionada con la composición o fases del suelo diríjase a los siguientes enlaces web de páginas gubernamentales, los cuales relacionan artículos relacionados con esta temática:
@@ -300,7 +300,7 @@
           .anexo__texto
             h5.mb-0 Anexo
             h5.mb-0 Guía de muestreo
-            p MInstituto Geográfico Agustín Codazi, Colombia.
+            p Instituto Geográfico Agustín Codazi, Colombia.
       .col-lg-4.col-sm-10.mb-3
         a.anexo.fnd-13.mb-0(:href="('https://inta.gob.ar/sites/default/files/script-tmp-tcnicas_de_toma_y_remisin_de_muestras_de_suelos.pdf')" target="_blank")
           .anexo__icono

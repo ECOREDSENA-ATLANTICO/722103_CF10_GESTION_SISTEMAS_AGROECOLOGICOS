@@ -50,7 +50,7 @@
       li 
         i.fas.fa-check
         | Organismos anaeróbicos: los cuales llevan a cabo sus procesos metabólicos en ausencia de oxígeno. 
-    p.mb-5 y finalmente los Heterótrofos, los cuales se encargan de la destrucción de los residuos orgánicos y emiten CO2 resultante de su proceso de respiración.
+    p.mb-5 Y finalmente los Heterótrofos, los cuales se encargan de la destrucción de los residuos orgánicos y emiten CO2 resultante de su proceso de respiración.
 
 
 
@@ -67,7 +67,7 @@
                   p Este grupo de organismos obtienen la energía y nutrientes por medio de asociaciones, veamos a más profundidad esto en el siguiente video
                 .col-sm-auto
                   a.boton.color-acento-botones(:href="('https://www.youtube.com/watch?v=cSgOReTdHSc&t=74s')" target="_blank")
-                    span Ver video
+                    span Consultar video
                     i.fas.fa-video
 
 
@@ -179,6 +179,7 @@
       .col-lg-7
         figure
           img(src='@/assets/curso/temas/tema3/img-12.png', alt='Texto que describa la imagen')
+      
       .col-lg-5.fnd-15
         ul.lista-ul--color
           li
@@ -196,7 +197,7 @@
           li 
             i.fas.fa-circle.nar
             | Producción de óxidos de nitrógenos.
-
+      figcaption Fuente: https://www.youtube.com/watch?v=r0Y4Y0lgACk&ab_channel=Udearroba
 
 
 </template>

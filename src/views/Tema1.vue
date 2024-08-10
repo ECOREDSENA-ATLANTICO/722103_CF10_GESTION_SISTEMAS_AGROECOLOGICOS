@@ -33,9 +33,9 @@
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
           p En el contexto de la agricultura la ciencia del suelo es denominada como edafología, término que viene de una raíz griega <em>“edafos”</em> qué significa suelo donde crecen las plantas o las raíces.
-          p La edafología es una ciencia aplicada al estudio del suelo en un agroecosistema y bajo esta perspectiva el suelo también es un producto de 5 factores formadores naturales como se vio en la anterior figura, pero modificado por el factor antrópico o humano que en algunas regiones que de miles de años de acción sobre el suelo original.
+          p La edafología es una ciencia aplicada al estudio del suelo en un agroecosistema y bajo esta perspectiva el suelo también es un producto de 5 factores formadores naturales como se explicó en la anterior figura, pero modificado por el factor antrópico o humano que en algunas regiones que de miles de años de acción sobre el suelo original.
         p No existe una definición de suelos universalmente aceptada, pero podemos decir que el suelo es el medio natural que sostiene la vida vegetal brindando soporte físico, almacenando agua, suministrando oxígeno y nutrientes minerales a las plantas.
-        p La formación de suelos es el proceso que parte desde una roca hasta el suelo con un perfil determinado, pasando por una fase denominada material originario; las rocas pueden ser de 3 tipos o grupos según su origen, la cuales son: ígneas, sedimentarias y metamórficas
+        p La formación de suelos es el proceso que parte desde una roca hasta el suelo con un perfil determinado, pasando por una fase denominada material originario; las rocas pueden ser de 3 tipos o grupos según su origen, la cuales son: ígneas, sedimentarias y metamórficas.
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
