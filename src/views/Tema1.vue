@@ -25,7 +25,7 @@
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-4.col-sm-10.col-sm-10
+      .col-lg-4.col-md-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-3.svg')
 
@@ -66,7 +66,7 @@
         p Por acción de la temperatura y de la humedad pueden transformarse en material originario mucho más subdividido y favorable para el ingreso de la biota, particularmente las raíces de algunas gramíneas.
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
           p El material originario puede ser sedentario o transportado, se denomina sedentario cuando se forma y queda en el mismo lugar en que se formó denominado así residual, si se mueve por efecto de la gravedad a lo largo de una pendiente en una corta distancia se denomina coluvial y el material originario transportado es el material originario que se mueve a distancias considerables por acción del agua, el viento o por los glaciares, que si bien, no son de transporte del material originario en largas distancias, constituyen el material originario de suelos en muchas regiones frías del mundo.
-      .col-lg-5
+      .col-lg-5.col-md-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-6.svg', alt='Texto que describa la imagen')
 
@@ -179,7 +179,7 @@
       .col-lg-7
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
           p La clasificación de los suelos está directamente ligada con las propiedades físicas, químicas y biológicas y con otros criterios que pueden variar por países. Sin embargo, existe una clasificación de suelos a nivel mundial llamada<em> Soil Taxonomy de la United States Department of Agriculture (USDA),</em> que clasifica los suelos con base a la concepción de “Horizonte diagnóstico” e indica 12 órdenes y cuentan diferentes niveles jerárquicos que parten desde los subórdenes hasta las series, conozcamos a continuación:
-      .col-lg-5
+      .col-lg-5.col-md-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-20.png', alt='Texto que describa la imagen')
 
@@ -367,42 +367,42 @@
     .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-10
         .row.justify-content-center.align-items-center.mb-2.fnd-8
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema1/img-40.svg', alt='aaaaaa')
           .col-lg-8
             h5 Suelos arenosos
             p Incapaces de retener el agua, son escasos en materia orgánica y por lo tanto poco fértiles.
         .row.justify-content-center.align-items-center.mb-2.fnd-9
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema1/img-41.svg', alt='aaaaaa')
           .col-lg-8
             h5 Suelos calizos
             p Abundan en minerales calcáreos y por lo tanto en sales, lo cual les confiere dureza, aridez y color blanquecino.
         .row.justify-content-center.align-items-center.mb-2.fnd-10
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema1/img-42.svg', alt='aaaaaa')
           .col-lg-8
             h5 Suelos humíferos
             p De tierra negra, en ellos abunda la materia orgánica en descomposición y retienen muy bien el agua, siendo muy fértiles.
         .row.justify-content-center.align-items-center.mb-2.fnd-11
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema1/img-43.svg', alt='aaaaaa')
           .col-lg-8
             h5 Suelos arcillosos
             p Compuestos por finos granos amarillentos que retienen muy bien el agua, por lo que suelen inundarse con facilidad.
         .row.justify-content-center.align-items-center.mb-2.fnd-8
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema1/img-44.svg', alt='aaaaaa')
           .col-lg-8
             h5 Suelos pedregosos
             p Compuestos por rocas de distintos tamaños, son muy porosos y no retienen en nada el agua.
         .row.justify-content-center.align-items-center.mb-5.fnd-9
-          .col-lg-4.col-sm-10
+          .col-lg-4.col-md-10
             figure
               img(src='@/assets/curso/temas/tema1/img-45.svg', alt='aaaaaa')
           .col-lg-8

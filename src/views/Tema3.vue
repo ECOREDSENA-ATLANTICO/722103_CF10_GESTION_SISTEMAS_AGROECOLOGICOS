@@ -7,52 +7,72 @@
         span 3
       h1 Identificación de la biodiversidad del suelo
 
-    p.mb-5 El suelo alberga diversidad de organismos que se encuentran adaptados a este sistema y son parte fundamental para el desarrollo del ciclo de los nutrientes. Asimismo, pueden afectar la formación y evolución de los suelos, siendo considerado como un factor de formación del suelo.
-
-    h5.mb-3.text-center Los factores y clasificación que limitan el desarrollo del suelo son:
-
-    p La principal fuente de energía para los microorganismos del suelo es la luz solar. Los compuestos orgánicos son compuestos conocidos como hidrocarburos, que se llaman así porque están formados solo por hidrógeno y carbono. 
-    p Adicional a esto, los compuestos minerales son sustancias inorgánicas de composición química definida, que se encuentran en distintas formaciones rocosas. 
-    p Estas sustancias receptoras de electrones intervienen en reacciones redox entre sustancias como el O2, compuestos orgánicos, el NO3, NO2, SO4, entre otros.
-    p Los organismos pueden utilizar compuestos inorgánicos, como el CO2 o el HCO3. También las vitaminas y aminoácidos hacen parte de los factores de crecimiento. Dentro de las condiciones del medio, la temperatura en los seres vivos posee un intervalo en el que pueden desarrollar su actividad y según el grado de temperatura en el cual se desarrollan define tres tipos de organismos: Termófilos, Mesófilos y Psicrófilos. 
-
-    p También se pueden clasificar según su disponibilidad de oxígeno en:
-    ul.lista-ul--color
-      li 
-        i.fas.fa-check
-        | Aerobios que son organismos que se desarrollan en presencia de oxígeno.
-      li 
-        i.fas.fa-check
-        | Macroaerófilos que requieren condiciones bajas en oxígeno.
-      li 
-        i.fas.fa-check
-        | Anaerobios que se desarrollan en ausencia de oxígeno. 
-    p Por otro lado, tenemos la Acidez del suelo determina el tipo de organismos que puede existir de acuerdo con diferentes intervalos de pH del suelo. Definiendo tipos de organismos como son: Neutrófilos, Basófilos, Acidófilos e Indiferentes.
-    p La clasificación de los organismos del suelo según su tamaño, se agrupan en tres clases distintas: 
-    ul.lista-ul--color
-      li 
-        i.fas.fa-check
-        | Macrofauna: animales que viven en el suelo: ratones, topos, musarañas, reptiles, 	miriápodos, moluscos, lombrices, etc.
-      li 
-        i.fas.fa-check
-        | Mesofauna: artrópodos, anélidos, nemátodos, moluscos, etc. 
-      li 
-        i.fas.fa-check
-        | Microbiota: según su naturaleza, microflora y microfauna
-    p De la misma manera, según su metabolismo se agrupan en:
-    ul.lista-ul--color
-      li 
-        i.fas.fa-check
-        | Autótrofos: como algas, bacterias fotosintéticas o plantas superiores.
-      li 
-        i.fas.fa-check
-        | Quimiolitótrofos: estos organismos aeróbicos, llevan a cabo la oxidación del amonio, participando en el ciclo del nitrógeno en el suelo.
-      li 
-        i.fas.fa-check
-        | Organismos anaeróbicos: los cuales llevan a cabo sus procesos metabólicos en ausencia de oxígeno. 
-    p.mb-5 Y finalmente los Heterótrofos, los cuales se encargan de la destrucción de los residuos orgánicos y emiten CO2 resultante de su proceso de respiración.
 
 
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+      .col-lg-4.col-md-10
+        figure.mb-5
+          img(src='@/assets/curso/temas/tema3/img-13.png')
+
+
+      .col-lg-8
+        .cajon.color-acento-botones.p-4.mb-4.fnd-7 
+          p El suelo alberga diversidad de organismos que se encuentran adaptados a este sistema y son parte fundamental para el desarrollo del ciclo de los nutrientes. Asimismo, pueden afectar la formación y evolución de los suelos, siendo considerado como un factor de formación del suelo.
+
+        p Los factores y clasificación que limitan el desarrollo del suelo son la principal fuente de energía para los microorganismos del suelo es la luz solar. Los compuestos orgánicos son compuestos conocidos como hidrocarburos, que se llaman así porque están formados solo por hidrógeno y carbono. 
+        p Adicional a esto, los compuestos minerales son sustancias inorgánicas de composición química definida, que se encuentran en distintas formaciones rocosas. 
+        p Estas sustancias receptoras de electrones intervienen en reacciones redox entre sustancias como el O2, compuestos orgánicos, el NO3, NO2, SO4, entre otros.
+
+    .row.justify-content-center.d-flex.align-items-stretch(data-aos="fade-right")
+      .col-lg-10.mb-5
+        .crd_02.fn-6
+          .crd_02__icon
+            img(src="@/assets/curso/temas/tema3/img-14.svg", alt="alt")          
+          .crd_02__txt    
+            p Los organismos pueden utilizar compuestos inorgánicos, como el CO2 o el HCO3. También las vitaminas y aminoácidos hacen parte de los factores de crecimiento. Dentro de las condiciones del medio, la temperatura en los seres vivos posee un intervalo en el que pueden desarrollar su actividad y según el grado de temperatura en el cual se desarrollan define tres tipos de organismos: Termófilos, Mesófilos y Psicrófilos. 
+      .col-lg-10
+        h5.text-center.mb-4 También se pueden clasificar según su disponibilidad de oxígeno en:
+
+    .row.justify-content-center.d-flex.align-items-stretch.mb-md-5
+      .col-lg-4.col-md-10.fnn-1
+        p.mb-0 Aerobios que son organismos que se desarrollan en presencia de oxígeno.
+      .col-lg-4.col-md-10.fnn-2
+        p.mb-0 Macroaerófilos que requieren condiciones bajas en oxígeno.
+      .col-lg-4.col-md-10.fnn-3
+        p.mb-0 Anaerobios que se desarrollan en ausencia de oxígeno. 
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-lg-8.order-2.order-lg-1
+        p Por otro lado, tenemos la Acidez del suelo determina el tipo de organismos que puede existir de acuerdo con diferentes intervalos de pH del suelo. Definiendo tipos de organismos como son: Neutrófilos, Basófilos, Acidófilos e Indiferentes.
+        h5 La clasificación de los organismos del suelo según su tamaño, se agrupan en tres clases distintas: 
+        ul.lista-ul--color
+          li 
+            i.fas.fa-circle.na
+            |<b>Macrofauna:</b> animales que viven en el suelo: ratones, topos, musarañas, reptiles, 	miriápodos, moluscos, lombrices, etc.
+          li 
+            i.fas.fa-circle.na
+            |<b>Mesofauna:</b> artrópodos, anélidos, nemátodos, moluscos, etc. 
+          li 
+            i.fas.fa-circle.na
+            |<b>Microbiota:</b> según su naturaleza, microflora y microfauna
+        h5 De la misma manera, según su metabolismo se agrupan en:
+        ul.lista-ul--color
+          li 
+            i.fas.fa-circle.na
+            |<b>Autótrofos:</b> como algas, bacterias fotosintéticas o plantas superiores.
+          li 
+            i.fas.fa-circle.na
+            |<b>Quimiolitótrofos:</b> estos organismos aeróbicos, llevan a cabo la oxidación del amonio, participando en el ciclo del nitrógeno en el suelo.
+          li 
+            i.fas.fa-circle.na
+            | <b>Organismos anaeróbicos:</b> los cuales llevan a cabo sus procesos metabólicos en ausencia de oxígeno. 
+          li
+            i.fas.fa-circle.na
+            |<b>Heterótrofos:</b> los cuales se encargan de la destrucción de los residuos orgánicos y emiten CO2 resultante de su proceso de respiración.
+
+      .col-lg-4.order-1.order-lg-2.col-md-8
+        figure.mb-5
+        img(src='@/assets/curso/temas/tema3/img-15.png')
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in")
       .col-lg-10
@@ -84,9 +104,9 @@
           p Las plantas a través del proceso de fotosíntesis capturan los elementos necesarios para su desarrollo como lo son el carbono, el hidrógeno y el oxígeno y otros nutrientes esenciales que se encuentran presentes en el suelo como los son los nutrientes principales como el nitrógeno, fósforo, potasio, calcio y magnesio procedentes de la descomposición de la materia orgánica a través de los microorganismos.
 
 
-      .col-lg-4
+      .col-lg-4.col-md-10
         figure.mb-5
-          img(src='@/assets/curso/temas/tema3/img-2.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema3/img-2.png')
 
     h5.text-center Conozcamos los factores que influyen:
       
@@ -100,7 +120,7 @@
             p Un suelo se considera fértil en cuanto contenga los nutrientes necesarios e indispensables para que las plantas puedan desarrollarse.
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema3/img-3.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-3.png')
         .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Consistencia y profundidad
@@ -110,7 +130,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema3/img-4.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-4.png')
         .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Nutrientes
@@ -118,7 +138,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema3/img-5.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-5.png')
         .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Absorbe y retiene el agua 
@@ -127,7 +147,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema3/img-6.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-6.png')
         .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Aireado el suelo
@@ -135,7 +155,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema3/img-7.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-7.png')
         .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Conservación de los suelos de sustancias tóxicas
@@ -144,7 +164,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema3/img-8.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-8.png')
         .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Conservación de la estructura del suelo
@@ -152,7 +172,7 @@
         
           .col-md-6
             figure
-              img(src='@/assets/curso/temas/tema3/img-9.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-9.png')
        
     Separador
 
@@ -164,21 +184,21 @@
           .row.justify-content-center.align-items-center
             .col-lg-2
               figure
-                img(src='@/assets/curso/temas/tema3/img-10.svg', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema3/img-10.svg')
             .col-lg-10            
               p.mb-0 El ser humano usa de diversas formas la superficie de la tierra y ese uso afecta en muchos casos al recurso suelo donde la agricultura, la ganadería, la extracción de minerales y de construcción, la eliminación de recursos y otras actividades son las principales causas de su deterioro y contaminación.
         p Cuando se habla de contaminación del suelo, se pueden encontrar fuentes puntuales o difusas, continuas o discontinuas.
         p El suelo puede recibir contaminación directa cuando se realiza un proceso de fertilización a partir de fertilizantes químicos y productos fitosanitarios, con el propósito de incrementar la producción vegetal. 
         p Donde podemos encontrar que los principales riesgos ambientales que se generan del empleo inadecuado de fertilizantes son:
 
-      .col-lg-4
+      .col-lg-4.col-md-10
         figure.mb-5
-          img(src='@/assets/curso/temas/tema3/img-11.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema3/img-11.png')
 
     .row.justify-content-center.align-items-center.mb-5.fnd-14.px-3(data-aos="fade-left")
       .col-lg-7
         figure
-          img(src='@/assets/curso/temas/tema3/img-12.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema3/img-12.png')
       
       .col-lg-5.fnd-15
         ul.lista-ul--color

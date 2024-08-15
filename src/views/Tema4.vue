@@ -28,7 +28,7 @@
             .tt-m.p-3.fnd-19
               p.text-center Espectrofotómetro UV visible. 
 
-      .col-lg-4
+      .col-lg-4.col-md-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema4/img-4.png')
 
