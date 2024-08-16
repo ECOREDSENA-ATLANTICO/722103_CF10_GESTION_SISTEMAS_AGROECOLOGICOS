@@ -289,12 +289,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Equipo',
+          cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
         {
           nombre: 'Miguel De Jesús Paredes Maestre',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga - Regional Atlántico',
         },
@@ -330,6 +330,18 @@ export default {
           cargo: 'Corrector de Estilo',
           centro: 'Centro de Diseño y Metrología - Distrito Capital',
         },
+        {
+          nombre: 'Fabian Cuartas',
+          cargo: 'Validación de Diseño y Contenido',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Gilberto Herrera',
+          cargo: 'Validación de Diseño y Contenido',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
       ],
     },
     {
@@ -355,7 +367,7 @@ export default {
         },
         {
           nombre: 'Jorge Leonardo Camacho',
-          cargo: 'Desarrollo <em>Full Stack</em>',
+          cargo: 'Desarrollo <em>Fullstack</em>',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
@@ -391,6 +403,12 @@ export default {
         {
           nombre: 'Luz Karime Amaya',
           cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
+        },
+        {
+          nombre: 'Jairo Valencia Ebrat',
+          cargo: 'Validación de recursos digitales',
           centro:
             'Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga -  Regional Atlántico',
         },
