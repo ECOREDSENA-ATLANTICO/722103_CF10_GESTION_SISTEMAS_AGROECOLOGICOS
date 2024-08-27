@@ -4,7 +4,7 @@ export default {
     descripcionCurso:
       'En este componente se podrá conocer la importancia de realizar un estudio de suelos que permita entender los tipos y horizontes del suelo presentes en el área donde se planea ejecutar el proceso productivo y diseñar el plan de manejo agroecológico idóneo para la plantación y el sistema pecuario, ahorrando esfuerzo, tiempo, dinero y lograr óptimos índices de producción y eficiencia.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],

@@ -48,7 +48,7 @@
         ul.lista-ul--color
           li 
             i.fas.fa-circle.na
-            |<b>Macrofauna:</b> animales que viven en el suelo: ratones, topos, musarañas, reptiles, 	miriápodos, moluscos, lombrices, etc.
+            | <b>Macrofauna:</b> animales que viven en el suelo: ratones, topos, musarañas, reptiles, 	miriápodos, moluscos, lombrices, etc.
           li 
             i.fas.fa-circle.na
             |<b>Mesofauna:</b> artrópodos, anélidos, nemátodos, moluscos, etc. 
