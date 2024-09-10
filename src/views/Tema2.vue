@@ -67,7 +67,7 @@
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
           p El horizonte del suelo u horizontes son capas o estratos diferenciados entre sí por diferentes características físicas y químicas, ordenados en sentido vertical hasta determinada profundidad y pueden ser producto de un proceso formador o degradaciones mecánicas por agentes de transporte con el agua.
-        p Para describir de forma adecuada un perfil se deben seguir un sistema de designación o de nomenclatura o simbología que corresponde a los horizontes principales y capas. Los horizontes principales se representan o designan mediante las letras mayúsculas O, A, E, B, C y R. Veamos cómo se conforman:
+        p Para describir de forma adecuada un perfil se deben seguir un sistema de designación o de nomenclatura o simbología que corresponde a los horizontes principales y capas. Los horizontes principales se representan o designan mediante las letras mayúsculas O, A, E, B, C y R. A continuación, se explica cómo se conforman: 
 
 
       .col-lg-4.col-sm-10
@@ -94,7 +94,7 @@
 
           .tarjeta.color-acento-botones--borde.p-3(x="37.6%" y="43.6%" numero="E")
             .h5.mb-2 Los horizontes E
-            p Lo más importante es la perdida de arcilla y otros compuestos, estos horizontes normalmente tienen escasa estructura o directamente tienden a ser masivos y duros si son de textura fina o muy sueltos en el caso se ser arenosos.
+            p Lo más importante es la perdida de arcilla y otros compuestos, estos horizontes normalmente tienen escasa estructura o directamente tienden a ser masivos y duros si son de textura fina o muy sueltos en el caso de ser arenosos.
 
           .tarjeta.color-acento-botones--borde.p-3(x="37.6%" y="54.4%" numero="B")
             .h5.mb-2 Los horizontes B
@@ -110,7 +110,7 @@
 
           .tarjeta.color-acento-botones--borde.p-3(x="62.9%" y="69.8%" numero="T")
             .h5.mb-2 Los horizontes de transición
-            p Se presentan propiedades de 2 horizontes principales el horizonte transicional se ubica entre ambos y su denominación utiliza las letras de cada horizonte: AB, AE, AC - EA, EB, EC - BA, BE, BC – CB, CA. 
+            p Se presentan propiedades de 2 horizontes principales, el horizonte transicional se ubica entre ambos y su denominación utiliza las letras de cada horizonte: AB, AE, AC - EA, EB, EC - BA, BE, BC – CB, CA. 
 
           .tarjeta.color-acento-botones--borde.p-3(x="61.1%" y="25%" numero="M")
             .h5.mb-2 Los horizontes mezcla
@@ -204,7 +204,7 @@
             h4.mb-0 1. DATOS GENERALES
           table
             tr
-              td <b>1.1.</b> Objetivo del muestreo: Definir de manera precisa las metas que se desean cumplir. <b><br>1.2.</b> Vías de acceso al sitio: Explicitar el acceso geo-referenciado al sitio de interés.<b><br>1.3.</b> Resumen de estudios previos: Identificar información relevante de acciones previas realizadas en el sitio de estudio.<b><br>1.4.</b> Localización geográfica del sitio (UTM WGS 84): Para su respectivo mapeo.<b><br>1.5.</b> Delimitación de las áreas de interés de muestreo: En base a la información disponible sobre las actividades anteladas o los procesos en curso.
+              td <b>1.1.</b> Objetivo del muestreo: Definir de manera precisa las metas que se desean cumplir. <b><br>1.2.</b> Vías de acceso al sitio: Explicitar el acceso geo-referenciado al sitio de interés.<b><br>1.3.</b> Resumen de estudios previos: Identificar información relevante de acciones previas realizadas en el sitio de estudio.<b><br>1.4.</b> Localización geográfica del sitio (UTM WGS 84): Para su respectivo mapeo.<b><br>1.5.</b> Delimitación de las áreas de interés de muestreo: Con base en la información disponible sobre las actividades anteladas o los procesos en curso.
 
         .tbl-1.color-acento-contenido
           .tabla-b__header
@@ -226,13 +226,13 @@
       .list2__txt
         h3.mb-0 Proceso de gestión previa a ir al campo
 
-    p La gestión de servicios de campo (FSM) es la coordinación de los recursos de una empresa, incluyendo a los empleados y el equipo, en actividades de trabajo y operaciones fuera de esta. A continuación, veremos los pasos de la ejecución del plan de muestreo relacionada a la FSM:
+    p La gestión de servicios de campo (FSM) es la coordinación de los recursos de una empresa, incluyendo a los empleados y el equipo, en actividades de trabajo y operaciones fuera de esta. A continuación, explicaremos los pasos de la ejecución del plan de muestreo relacionada con la FSM:
 
     .row.justify-content-center(data-aos="fade-left")
       .col-lg-8  
         TabsA.color-secundario.mb-5.tabb
           .tarjeta.fnd-12.p-4(titulo="Determinar las<br> unidades de<br> muestreo")
-            p Elaborar mapa o croquis de la zona a muestrear identificar el tipo y cantidad de muestras a tomar, definir si será una muestra simple o compuesta, normalmente es recomendable cuatro muestras por hectárea, con un peso de 1 kilogramo de suelo por muestra.
+            p Elaborar mapa o croquis de la zona a muestrear, identificar el tipo y cantidad de muestras a tomar, definir si será una muestra simple o compuesta, normalmente es recomendable cuatro muestras por hectárea, con un peso de 1 kilogramo de suelo por muestra.
 
           .tarjeta.fnd-12.p-4(titulo="Frecuencia")
             p La muestra de suelo debe ser repetida en intervalos de 1 a 4 años. Para parcelas con mayor intensidad en el uso de fertilizantes, la frecuencia debe incrementar lo necesario para llevar a cabo el plan definido. Cuando los cultivos son de frecuencia anual, se recomienda tomar la muestra a 20 cm de profundidad.
@@ -254,7 +254,7 @@
           img.img-h2(src='@/assets/curso/temas/tema2/img-8.png', alt='Texto que describa la imagen')
 
 
-    p Para definir la época correcta para tomar las muestras de suelo el factor meteorológico es fundamental. Con relación a la frecuencia, la muestra de suelo debe ser repetida en intervalos de 1 a 4 años. Para parcelas con mayor intensidad en el uso de fertilizantes, la frecuencia debe incrementar.
+    p Para definir la época correcta para tomar las muestras de suelo, el factor meteorológico es fundamental. Con relación a la frecuencia, la muestra de suelo debe ser repetida en intervalos de 1 a 4 años. Para parcelas con mayor intensidad en el uso de fertilizantes, la frecuencia debe incrementar.
 
     p.mb-5 Cuando los cultivos son de frecuencia anual, se recomienda tomar la muestra a 20 cm de profundidad. Para sistemas de siembra directa, la muestra se debe tomar en dos profundidades, la primera de 0 a 10 y la segunda de 10 a 20 cm.
 
@@ -282,7 +282,7 @@
                     span Consultar video
                     i.fas.fa-video
 
-    p.mb-5 Estimado aprendiz, para ampliar la información relacionada con la composición o fases del suelo diríjase a los siguientes enlaces web de páginas gubernamentales, los cuales relacionan artículos relacionados con esta temática:
+    p.mb-5 Estimado aprendiz, para ampliar la información relacionada con la composición o fases del suelo, diríjase a los siguientes enlaces web de páginas gubernamentales, los cuales relacionan artículos relacionados con esta temática:
     .row.justify-content-center.mb-5.d-flex.align-items-stretch(data-aos="fade-right")
       .col-lg-4.col-sm-10.mb-3
         a.anexo.fnd-13.mb-0(:href="('https://www.minam.gob.pe/calidadambiental/wp-content/uploads/sites/22/2013/10/GUIA-PARA-EL-MUESTREO-DE-SUELOS-final.pdf')" target="_blank")

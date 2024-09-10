@@ -202,7 +202,7 @@ export default {
     {
       termino: 'Capa freática',
       significado:
-        'el límite superior de las aguas subterráneas en las que la presión del agua es igual a 1 atm, es decir profundidad del nivel de agua en un sondeo cuando el agua subterránea puede entrar libremente en él. Se mide en centímetros por debajo de la superficie del suelo.',
+        'el límite superior de las aguas subterráneas en las que la presión del agua es igual a 1 atm, es decir, profundidad del nivel de agua en un sondeo cuando el agua subterránea puede entrar libremente en él. Se mide en centímetros por debajo de la superficie del suelo.',
     },
     {
       termino: 'Discontinuidad litológica',

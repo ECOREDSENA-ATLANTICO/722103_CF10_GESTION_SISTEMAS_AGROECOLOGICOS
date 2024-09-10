@@ -13,7 +13,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/tema1/img-1.png')})` }"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La ciencia del suelo comenzó dentro de la Geología, con una disciplina básica denominada Pedología, la cual estudia la modificación de la corteza terrestre por medio de procesos de meteorización, explica al suelo como un producto natural de 5 factores formadores los cuales son:
+        p.mb-0 La ciencia del suelo comenzó dentro de la Geología, con una disciplina básica denominada Pedología, la cual estudia la modificación de la corteza terrestre por medio de procesos de meteorización, explica al suelo como un producto natural de 5 factores formadores, los cuales son:
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 1.
@@ -21,7 +21,7 @@
     .row.justify-content-center.align-items-center.mb-5.fnd-1
       .col-lg-10
         figure.mb-5
-          img(src='@/assets/curso/temas/tema1/img-2.svg', alt='Muestra los factores formadores del suelo teniendo en cuenta: El tiempo, el relieve, el material, orgánico, el clima y la biota.')
+          img(src='@/assets/curso/temas/tema1/img-2.svg', alt='Muestra los factores formadores del suelo teniendo en cuenta: El tiempo, el relieve, el material orgánico, el clima y la biota.')
 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
@@ -32,9 +32,9 @@
 
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
-          p En el contexto de la agricultura la ciencia del suelo es denominada como edafología, término que viene de una raíz griega <em>“edafos”</em> qué significa suelo donde crecen las plantas o las raíces.
-          p La edafología es una ciencia aplicada al estudio del suelo en un agroecosistema y bajo esta perspectiva el suelo también es un producto de 5 factores formadores naturales como se explicó en la anterior figura, pero modificado por el factor antrópico o humano que en algunas regiones que de miles de años de acción sobre el suelo original.
-        p No existe una definición de suelos universalmente aceptada, pero podemos decir que el suelo es el medio natural que sostiene la vida vegetal brindando soporte físico, almacenando agua, suministrando oxígeno y nutrientes minerales a las plantas.
+          p En el contexto de la agricultura, la ciencia del suelo es denominada como edafología, término que viene de una raíz griega <em>“edafos”</em> qué significa suelo donde crecen las plantas o las raíces.
+          p La edafología es una ciencia aplicada al estudio del suelo en un agroecosistema y bajo esta perspectiva el suelo también es un producto de 5 factores formadores naturales como se vio en la anterior figura, pero modificado por el factor antrópico o humano que en algunas regiones que de miles de años de acción sobre el suelo original.
+        p No existe una definición de suelos universalmente aceptada, pero podemos decir que el suelo es el medio natural que sostiene la vida vegetal, brindando soporte físico, almacenando agua, suministrando oxígeno y nutrientes minerales a las plantas.
         p La formación de suelos es el proceso que parte desde una roca hasta el suelo con un perfil determinado, pasando por una fase denominada material originario; las rocas pueden ser de 3 tipos o grupos según su origen, la cuales son: ígneas, sedimentarias y metamórficas.
 
 
@@ -94,7 +94,7 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                p El suelo está compuesto por minerales, materia orgánica, diminutos organismos vegetales y animales, aire y agua. Es una capa delgada que se ha formado muy lentamente, a través de los siglos, con la desintegración de las rocas superficiales por la acción del agua, los cambios de temperatura y el viento, es un recurso natural no renovable compuesto por sustancias sólidas (materia orgánica, organismos y minerales), agua y aire. La proporción en la que se encuentran estos componentes le confiere al suelo propiedades físicas, químicas y biológicas propias.
+                p El suelo está compuesto por minerales, materia orgánica, diminutos organismos vegetales y animales, aire y agua. Es una capa delgada que se ha formado muy lentamente, a lo largo de los siglos, con la desintegración de las rocas superficiales por la acción del agua, los cambios de temperatura y el viento, es un recurso natural no renovable compuesto por sustancias sólidas (materia orgánica, organismos y minerales), agua y aire. La proporción en la que se encuentran estos componentes le confiere al suelo propiedades físicas, químicas y biológicas propias.
 
     p.text-center.text-bold A continuación, exponemos la composición:
 
@@ -178,7 +178,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-7
         .cajon.color-acento-contenido.p-4.mb-4.fnd-2 
-          p La clasificación de los suelos está directamente ligada con las propiedades físicas, químicas y biológicas y con otros criterios que pueden variar por países. Sin embargo, existe una clasificación de suelos a nivel mundial llamada<em> Soil Taxonomy de la United States Department of Agriculture (USDA),</em> que clasifica los suelos con base a la concepción de “Horizonte diagnóstico” e indica 12 órdenes y cuentan diferentes niveles jerárquicos que parten desde los subórdenes hasta las series, conozcamos a continuación:
+          p La clasificación de los suelos está directamente ligada con las propiedades físicas, químicas y biológicas y con otros criterios que pueden variar por países. Sin embargo, existe una clasificación de suelos a nivel mundial llamada<em> Soil Taxonomy de la United States Department of Agriculture (USDA),</em> que clasifica los suelos con base a la concepción de “Horizonte diagnóstico” e indica 12 órdenes y cuentan diferentes niveles jerárquicos que parten desde los subórdenes hasta las series, a continuación, los relacionamos: 
       .col-lg-5.col-md-10
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-20.png', alt='Texto que describa la imagen')
@@ -302,7 +302,7 @@
             img(src="@/assets/curso/temas/tema1/img-33.svg", alt="alt")          
           .crd_02__txt
             h5 Arenoso  
-            p En estos predomina la arena. Por el tamaño grande de sus partículas, suelos no retienen el agua que baja a zonas más profundas. Generalmente son de color claro y como no contienen mucha materia orgánica no suelen ser productivos para la agricultura.
+            p En estos predomina la arena. Por el tamaño grande de sus partículas, suelos no retienen el agua que baja a zonas más profundas. Generalmente, son de color claro y como no contienen mucha materia orgánica, no suelen ser productivos para la agricultura.
       .col-lg-6.mb-5
         .crd_03.fn-2
           .crd_03__icon
@@ -316,7 +316,7 @@
             img(src="@/assets/curso/temas/tema1/img-35.svg", alt="alt")          
           .crd_02__txt
             h5 Arcillosos  
-            p . La arcilla, partícula de menor tamaño es la predominante. Son suelos casi impermeables pero muy compactos en ausencia de agua. Contienen mucha materia orgánica pero cuando están secos no permiten el crecimiento de las raíces.
+            p La arcilla, partícula de menor tamaño, es la predominante. Son suelos casi impermeables pero muy compactos en ausencia de agua. Contienen mucha materia orgánica, pero cuando están secos no permiten el crecimiento de las raíces.
       .col-lg-6.mb-5
         .crd_03.fn-4
           .crd_03__icon.dan
@@ -339,7 +339,7 @@
               img(src='@/assets/curso/temas/tema1/img-37.svg', alt='Texto que describa la imagen')
           
         h5.text-center Suelos no evolucionados
-        p.text-center De formación reciente, próximos a la roca madre con poca materia orgánica.
+        p.text-center De formación reciente, próximos a la roca madre, con poca materia orgánica.
 
       .col-md.tarjeta.fnd-7.p-3
         .row.justify-content-center.mb-4
@@ -421,7 +421,7 @@
               img(src="@/assets/curso/temas/tema1/img-46.png", alt="alt")
           .crd_hover_txt--body
             h5.mb-3.text-white  Litosoles
-            p.mb-0.text-white  Capas delgadas de suelo de hasta 10cm de profundidad, con vegetación muy baja y también llamado “leptosoles”.
+            p.mb-0.text-white  Capas delgadas de suelo de hasta 10 cm de profundidad, con vegetación muy baja y también llamado “leptosoles”.
       .col-xl-3.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -490,7 +490,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   
-                  p Estimado aprendiz, se invita a que explore el video ubicado en los materiales complementarios denominado: <em>Grow Passion.</em> (2020). Conoce los diferentes tipos de suelo y sus principales características, a través del cual comprenderá los diferentes tipos de suelo y sus características como son su composición, clasificación y textura. Lo que nos da las herramientas para su clasificación.
+                  p Estimado aprendiz, se invita a que observe el video ubicado en los materiales complementarios denominado: <em>Grow Passion.</em> (2020). Conoce los diferentes tipos de suelo y sus principales características, a través del cual podrás analizar los diferentes tipos de suelo y sus características como son su composición, clasificación y textura. Lo que nos da las herramientas para su clasificación.
           
 
 </template>

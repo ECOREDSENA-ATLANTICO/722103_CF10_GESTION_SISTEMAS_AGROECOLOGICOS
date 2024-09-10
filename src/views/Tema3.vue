@@ -18,10 +18,10 @@
       .col-lg-8
         .cajon.color-acento-botones.p-4.mb-4.fnd-7 
           p El suelo alberga diversidad de organismos que se encuentran adaptados a este sistema y son parte fundamental para el desarrollo del ciclo de los nutrientes. Asimismo, pueden afectar la formación y evolución de los suelos, siendo considerado como un factor de formación del suelo.
-
-        p Los factores y clasificación que limitan el desarrollo del suelo son la principal fuente de energía para los microorganismos del suelo es la luz solar. Los compuestos orgánicos son compuestos conocidos como hidrocarburos, que se llaman así porque están formados solo por hidrógeno y carbono. 
+        h5 Los factores y clasificación que limitan el desarrollo del suelo son:
+        p La principal fuente de energía para los microorganismos del suelo es la luz solar. Los compuestos orgánicos son compuestos conocidos como hidrocarburos, que se llaman así porque están formados solo por hidrógeno y carbono. 
         p Adicional a esto, los compuestos minerales son sustancias inorgánicas de composición química definida, que se encuentran en distintas formaciones rocosas. 
-        p Estas sustancias receptoras de electrones intervienen en reacciones redox entre sustancias como el O2, compuestos orgánicos, el NO3, NO2, SO4, entre otros.
+        p Estas sustancias receptoras de electrones intervienen en reacciones redox entre sustancias como el O<sub>2</sub>, compuestos orgánicos, el NO<sub>3</sub>, NO<sub>2</sub>, SO<sub>4</sub>, entre otros.
 
     .row.justify-content-center.d-flex.align-items-stretch(data-aos="fade-right")
       .col-lg-10.mb-5
@@ -29,7 +29,7 @@
           .crd_02__icon
             img(src="@/assets/curso/temas/tema3/img-14.svg", alt="alt")          
           .crd_02__txt    
-            p Los organismos pueden utilizar compuestos inorgánicos, como el CO2 o el HCO3. También las vitaminas y aminoácidos hacen parte de los factores de crecimiento. Dentro de las condiciones del medio, la temperatura en los seres vivos posee un intervalo en el que pueden desarrollar su actividad y según el grado de temperatura en el cual se desarrollan define tres tipos de organismos: Termófilos, Mesófilos y Psicrófilos. 
+            p Los organismos pueden utilizar compuestos inorgánicos, como el CO<sub>2</sub> o el HCO<sub>3</sub>. También las vitaminas y aminoácidos hacen parte de los factores de crecimiento. Dentro de las condiciones del medio, la temperatura en los seres vivos posee un intervalo en el que pueden desarrollar su actividad y según el grado de temperatura en el cual se desarrollan define tres tipos de organismos: Termófilos, Mesófilos y Psicrófilos. 
       .col-lg-10
         h5.text-center.mb-4 También se pueden clasificar según su disponibilidad de oxígeno en:
 
@@ -201,13 +201,9 @@
           img(src='@/assets/curso/temas/tema3/img-12.png')
       
       .col-lg-5.fnd-15
+        h5 Cambios en el tipo y estructura de la vegetación natural.
+        p Cambio en la calidad química del agua, en donde se pueden presentar procesos de eutrofización, cambios en la población de macrófitas y riesgos para la salud humana.        
         ul.lista-ul--color
-          li
-            i.fas.fa-circle.nar
-            | Cambios en el tipo y estructura de la vegetación natural.
-          li 
-            i.fas.fa-circle.nar
-            | Cambio en la calidad química del agua, en donde se pueden presentar procesos de eutrofización, cambios en la población de macrófitas y riesgos para la salud humana.  
           li 
             i.fas.fa-circle.nar
             | La incorporación de metales pesados a los suelos.

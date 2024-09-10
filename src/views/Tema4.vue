@@ -54,17 +54,17 @@
 
           .col-lg-10
             .titulo-sexto.color-acento-contenido.mb-3
-              h5 Tabla 4.
+              h5 Tabla 3.
               span Valores	referenciales	de	las	condiciones	de	pH	y	Conductividad	eléctrica	del	suelo.
             .tabla-b.color-acento-contenido.mb-5
               table.tbl-2
-                caption Metodologías de análisis. Fundación	CETABOL,	2008.
+                caption Metodologías de análisis. Fundación	CETABOL,	2008. https://bit.ly/3Q6ryRO 
                 thead
                   tr
                     th Valores referenciales 
                     th pH 
                     th Valores referenciales 
-                    th umho/cm <br>CE                  
+                    th µmho/cm <br>CE                  
                 tbody
                   tr
                     td Muy ácido
@@ -72,7 +72,7 @@
                     td No salino 
                     td < 330
                   tr
-                    td Acido
+                    td Ácido
                     td 5.5	-	6.5
                     td Débilmente salino
                     td 330	-	570
@@ -98,7 +98,7 @@
 
           .col-lg-10
             .titulo-sexto.color-acento-contenido.mb-3
-              h5 Tabla 5.
+              h5 Tabla 4.
               span Valores de referencia de la materia orgánica y de los macronutrientes del suelo
             .tabla-b.color-acento-contenido.mb-5
               table.tbl-2
@@ -109,10 +109,10 @@
                     th(colspan='3') mg/kg
                   tr 
                     th M.O.
-                    th N. total
+                    th N. total.
                     th N. disp. 
-                    th P Olsen 
-                    th Azufre                  
+                    th P. Olsen. 
+                    th Azufre.                  
                 tbody
                   tr
                     td Muy bajo
@@ -199,7 +199,7 @@
 
           .col-lg-10
             .titulo-sexto.color-acento-contenido.mb-3
-              h5 Tabla 6.
+              h5 Tabla 5.
               span Valores de referencia de los micronutrientes del suelo.
             .tabla-b.color-acento-contenido.mb-5
               table.tbl-2
@@ -244,11 +244,11 @@
                     td > 1.5
                     td > 1
 
-        .row(numero="4" titulo="Requerimiento de los cultivos en relación a la necesidad del índice de cosecha")
+        .row(numero="4" titulo="Requerimiento de los cultivos en relación con la necesidad del índice de cosecha")
           .col-lg-12
             .titulo-sexto.color-acento-contenido.mb-3
               h5 Tabla 7.
-              span Requerimiento de los cultivos en relación a la necesidad del índice de cosecha
+              span Requerimiento de los cultivos en relación con la necesidad del índice de cosecha
           .row.justify-content-center.mb-5
             .col-12
               .tabla-c.color-acento-botones.mb-5
@@ -449,7 +449,7 @@
         .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Acciones de contingencia
-            p Tener edefinidas las acciones de contingencia frente a ingestión accidental de medios contaminados (suelos, aguas, alimentos, etc.).
+            p Tener definidas las acciones de contingencia frente a ingestión accidental de medios contaminados (suelos, aguas, alimentos, etc.).
 
           .col-md-6
             figure
@@ -465,7 +465,7 @@
         .row.mx-lg-5.mx-sm-0
           .col-md-6.mb-4.mb-md-0
             h5 Casos comunes a los que se expone al tomar muestras 
-            p Inicialmente son los peligros físicos durante las actividades de muestreo y/o uso de la maquinaria y equipos tales como detectores de canalizaciones y tuberías enterradas.
+            p Inicialmente, son los peligros físicos durante las actividades de muestreo y/o uso de la maquinaria y equipos tales como detectores de canalizaciones y tuberías enterradas.
 
           .col-md-6
             figure
@@ -487,7 +487,7 @@
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema4',
   data: () => ({
     // variables de vue
   }),
